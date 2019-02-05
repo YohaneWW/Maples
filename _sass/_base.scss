@@ -115,7 +115,6 @@ blockquote {
     border-left: 4px solid $grey-color-light;
     padding-left: $spacing-unit / 2;
     font-size: 18px;
-    letter-spacing: -1px;
     font-style: italic;
 
     > :last-child {
@@ -283,7 +282,7 @@ hr {
     border-bottom: 1px solid #ccc;
 }
 blockquote {
-    padding: 13px 13px 21px 15px;
+    padding: 10px 10px 5px 15px;
     margin-bottom: 18px;
     font-family:georgia,serif;
     font-style: italic;
@@ -296,7 +295,7 @@ blockquote:before {
     color:#eee;
 }
 blockquote p {
-    font-size: 14px;
+    font-size: 18px;
     font-weight: 300;
     line-height: 18px;
     margin-bottom: 0;
