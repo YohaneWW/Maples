@@ -1,10 +1,10 @@
 # Site settings
-title: 剣崎梨々花のオーボエ練習曲
+title: ♫ 剣崎梨々花のオーボエ練習曲
 motto: >
-  𝄞 剣崎梨々花のオーボエ練習曲
+  ♫ 剣崎梨々花のオーボエ練習曲
 description: > # this means to ignore newlines until "baseurl:"
-  ~ ♪ Inevitable swaying, accompany with maples.
-  WhiteTiger Field, Someday in the raining. 𝄇
+  ♪ ~ Inevitable swaying, accompany with maples.
+  WhiteTiger Field, Someday in the raining.
 baseurl: "/maples" # the subpath of your site, e.g. /blog/
 url: https://yohaneww.github.io # the base hostname & protocol for your site
 
