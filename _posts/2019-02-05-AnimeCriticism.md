@@ -3,7 +3,7 @@ layout: post
 title: "八声甘州雨 Anime 狩猎榜"
 categories: AnimeCriticism
 ---
-## _Being to a master with the criticism._
+> _**Being to the master with the criticism.**_
 
 ----
 
@@ -18,7 +18,63 @@ categories: AnimeCriticism
       <td>评价</td>
    </tr>
    <tr>
-      <td></td>
+      <td>1995.10</td>
+      <td>新世纪福音战士</td>
+      <td>3</td>
+      <td>2</td>
+      <td>5</td>
+      <td>好评如潮</td>
+   </tr>
+   <tr>
+      <td>2008.10</td>
+      <td>龙与虎</td>
+      <td>3</td>
+      <td>2</td>
+      <td>5</td>
+      <td>好评如潮</td>
+   </tr>
+   <tr>
+      <td>2000.04</td>
+      <td>FLCL特别的她</td>
+      <td>3</td>
+      <td>2</td>
+      <td>5</td>
+      <td>好评如潮</td>
+   </tr>
+   <tr>
+      <td>2004.10</td>
+      <td>月咏-Moon Phase-</td>
+      <td>3</td>
+      <td>2</td>
+      <td>5</td>
+      <td>好评如潮</td>
+   </tr>
+   <tr>
+      <td>2007.03</td>
+      <td>秒速5センチメートル</td>
+      <td>3</td>
+      <td>2</td>
+      <td>5</td>
+      <td>好评如潮</td>
+   </tr>
+   <tr>
+      <td>2006.11</td>
+      <td>紅辣椒</td>
+      <td>2</td>
+      <td>3</td>
+      <td>5</td>
+      <td>好评如潮</td>
+   </tr>
+   <tr>
+      <td>2012.01</td>
+      <td>伪物语</td>
+      <td>2</td>
+      <td>3</td>
+      <td>5</td>
+      <td>好评如潮</td>
+   </tr>
+   <tr>
+      <td>2002.10</td>
       <td>攻壳机动队</td>
       <td>2</td>
       <td>2</td>
@@ -32,86 +88,6 @@ categories: AnimeCriticism
       <td>2</td>
       <td>4</td>
       <td>好评如潮</td>
-   </tr>
-   <tr>
-      <td>1995.10</td>
-      <td>新世纪福音战士</td>
-      <td>3</td>
-      <td>2</td>
-      <td>5</td>
-      <td>好评如潮</td>
-   </tr>
-   <tr>
-      <td></td>
-      <td>四月是你的谎言</td>
-      <td>1</td>
-      <td>1</td>
-      <td>2</td>
-      <td>值得一看</td>
-   </tr>
-   <tr>
-      <td></td>
-      <td>龙与虎</td>
-      <td>3</td>
-      <td>2</td>
-      <td>5</td>
-      <td>好评如潮</td>
-   </tr>
-   <tr>
-      <td></td>
-      <td>灰羽联盟</td>
-      <td>2</td>
-      <td></td>
-      <td>2</td>
-      <td>值得一看</td>
-   </tr>
-   <tr>
-      <td></td>
-      <td>东京喰种</td>
-      <td></td>
-      <td>0</td>
-      <td>0</td>
-      <td>有丶一般</td>
-   </tr>
-   <tr>
-      <td></td>
-      <td>濑户的花嫁</td>
-      <td>1</td>
-      <td>1</td>
-      <td>2</td>
-      <td>值得一看</td>
-   </tr>
-   <tr>
-      <td></td>
-      <td>罪恶王冠</td>
-      <td>-1</td>
-      <td>-1</td>
-      <td>-2</td>
-      <td>有丶垃圾</td>
-   </tr>
-   <tr>
-      <td></td>
-      <td>自新世界</td>
-      <td>0</td>
-      <td>2</td>
-      <td>2</td>
-      <td>值得一看</td>
-   </tr>
-   <tr>
-      <td></td>
-      <td>宅男腐女恋爱真难</td>
-      <td></td>
-      <td>1</td>
-      <td>1</td>
-      <td>有丶一般</td>
-   </tr>
-   <tr>
-      <td></td>
-      <td>魔法少女小圆</td>
-      <td>1</td>
-      <td>2</td>
-      <td>3</td>
-      <td>值得一看</td>
    </tr>
    <tr>
       <td></td>
@@ -130,28 +106,76 @@ categories: AnimeCriticism
       <td>好评如潮</td>
    </tr>
    <tr>
-      <td>2018.01</td>
-      <td>DARLING in the FRANXX</td>
-      <td>-2</td>
       <td></td>
-      <td>-2</td>
-      <td>有丶垃圾</td>
-   </tr>
-   <tr>
-      <td>2018.01</td>
-      <td>POP TEAM EPIC</td>
-      <td>-3</td>
-      <td></td>
-      <td>-3</td>
-      <td>有丶垃圾</td>
+      <td>进击的巨人</td>
+      <td>2</td>
+      <td>2</td>
+      <td>4</td>
+      <td>好评如潮</td>
    </tr>
    <tr>
       <td></td>
-      <td>海猫鸣泣之时</td>
-      <td>-1</td>
+      <td>天才嘉年華</td>
+      <td>2</td>
+      <td>2</td>
+      <td>4</td>
+      <td>好评如潮</td>
+   </tr>
+   <tr>
+      <td></td>
+      <td>她與她的貓</td>
+      <td>2</td>
+      <td>2</td>
+      <td>4</td>
+      <td>好评如潮</td>
+   </tr>
+   <tr>
+      <td></td>
+      <td>千年女優</td>
       <td>1</td>
-      <td>0</td>
-      <td>有丶一般</td>
+      <td>3</td>
+      <td>4</td>
+      <td>好评如潮</td>
+   </tr>
+   <tr>
+      <td></td>
+      <td>星際牛仔Cowboy Bebop</td>
+      <td>2</td>
+      <td>2</td>
+      <td>4</td>
+      <td>好评如潮</td>
+   </tr>
+   <tr>
+      <td></td>
+      <td>我的青春恋爱物语果然有问题</td>
+      <td>2</td>
+      <td>2</td>
+      <td>4</td>
+      <td>好评如潮</td>
+   </tr>
+   <tr>
+      <td></td>
+      <td>终物语</td>
+      <td>3</td>
+      <td>1</td>
+      <td>4</td>
+      <td>好评如潮</td>
+   </tr>
+   <tr>
+      <td></td>
+      <td>吊带袜天使</td>
+      <td>1</td>
+      <td>3</td>
+      <td>4</td>
+      <td>好评如潮</td>
+   </tr>
+   <tr>
+      <td></td>
+      <td>魔法少女小圆</td>
+      <td>1</td>
+      <td>2</td>
+      <td>3</td>
+      <td>值得一看</td>
    </tr>
    <tr>
       <td></td>
@@ -163,75 +187,11 @@ categories: AnimeCriticism
    </tr>
    <tr>
       <td></td>
-      <td>Clannad</td>
-      <td>1</td>
-      <td></td>
-      <td>1</td>
-      <td>有丶一般</td>
-   </tr>
-   <tr>
-      <td></td>
-      <td>Charlotte 夏洛特</td>
-      <td>-1</td>
-      <td>-2</td>
-      <td>-3</td>
-      <td>有丶垃圾</td>
-   </tr>
-   <tr>
-      <td></td>
-      <td>Air</td>
-      <td>0</td>
-      <td>1</td>
-      <td>1</td>
-      <td>有丶一般</td>
-   </tr>
-   <tr>
-      <td>2013.10</td>
-      <td>白色相薄2</td>
-      <td>1</td>
-      <td></td>
-      <td>1</td>
-      <td>有丶一般</td>
-   </tr>
-   <tr>
-      <td></td>
-      <td>飞越巅峰！</td>
-      <td>2</td>
-      <td></td>
-      <td>2</td>
-      <td>值得一看</td>
-   </tr>
-   <tr>
-      <td></td>
-      <td>FLCL特别的她</td>
-      <td>3</td>
-      <td>2</td>
-      <td>5</td>
-      <td>好评如潮</td>
-   </tr>
-   <tr>
-      <td></td>
       <td>K-on!</td>
       <td>1</td>
       <td>2</td>
       <td>3</td>
       <td>值得一看</td>
-   </tr>
-   <tr>
-      <td></td>
-      <td>中二病也要谈恋爱</td>
-      <td>1</td>
-      <td></td>
-      <td>1</td>
-      <td>有丶一般</td>
-   </tr>
-   <tr>
-      <td></td>
-      <td>进击的巨人</td>
-      <td>2</td>
-      <td>2</td>
-      <td>4</td>
-      <td>好评如潮</td>
    </tr>
    <tr>
       <td></td>
@@ -251,190 +211,6 @@ categories: AnimeCriticism
    </tr>
    <tr>
       <td></td>
-      <td>Fate/Last Encoder</td>
-      <td>-1</td>
-      <td></td>
-      <td>-1</td>
-      <td>有丶垃圾</td>
-   </tr>
-   <tr>
-      <td></td>
-      <td>命运石之门Stein;Gates</td>
-      <td>1</td>
-      <td></td>
-      <td>1</td>
-      <td>有丶一般</td>
-   </tr>
-   <tr>
-      <td></td>
-      <td>珂赛特的肖像</td>
-      <td>1</td>
-      <td></td>
-      <td>1</td>
-      <td>有丶一般</td>
-   </tr>
-   <tr>
-      <td>2004.10</td>
-      <td>月咏-Moon Phase-</td>
-      <td>3</td>
-      <td>2</td>
-      <td>5</td>
-      <td>好评如潮</td>
-   </tr>
-   <tr>
-      <td>2007.07</td>
-      <td>School Days</td>
-      <td>2</td>
-      <td>-1</td>
-      <td>1</td>
-      <td>有丶一般</td>
-   </tr>
-   <tr>
-      <td></td>
-      <td>Angel Beats!</td>
-      <td>0</td>
-      <td>-1</td>
-      <td>-1</td>
-      <td>有丶垃圾</td>
-   </tr>
-   <tr>
-      <td></td>
-      <td>Love Live!</td>
-      <td>0</td>
-      <td>-1</td>
-      <td>-1</td>
-      <td>有丶垃圾</td>
-   </tr>
-   <tr>
-      <td></td>
-      <td>绝望先生</td>
-      <td>2</td>
-      <td></td>
-      <td>2</td>
-      <td>值得一看</td>
-   </tr>
-   <tr>
-      <td></td>
-      <td>东京残响</td>
-      <td>-1</td>
-      <td>2</td>
-      <td>1</td>
-      <td>有丶一般</td>
-   </tr>
-   <tr>
-      <td></td>
-      <td>Megalo Box</td>
-      <td>-1</td>
-      <td></td>
-      <td>-1</td>
-      <td>有丶垃圾</td>
-   </tr>
-   <tr>
-      <td></td>
-      <td>黃漫老師</td>
-      <td>-2</td>
-      <td></td>
-      <td>-2</td>
-      <td>有丶垃圾</td>
-   </tr>
-   <tr>
-      <td></td>
-      <td>天才麻將少女</td>
-      <td>1</td>
-      <td></td>
-      <td>1</td>
-      <td>有丶一般</td>
-   </tr>
-   <tr>
-      <td></td>
-      <td>鋼之煉金術士</td>
-      <td>1</td>
-      <td></td>
-      <td>1</td>
-      <td>有丶一般</td>
-   </tr>
-   <tr>
-      <td></td>
-      <td>最近,我的妹妹有點怪</td>
-      <td>-2</td>
-      <td></td>
-      <td>-2</td>
-      <td>有丶垃圾</td>
-   </tr>
-   <tr>
-      <td></td>
-      <td>我的妹妹不可能這麼可愛</td>
-      <td>-2</td>
-      <td></td>
-      <td>-2</td>
-      <td>有丶垃圾</td>
-   </tr>
-   <tr>
-      <td></td>
-      <td>冰菓</td>
-      <td>1</td>
-      <td>1</td>
-      <td>2</td>
-      <td>值得一看</td>
-   </tr>
-   <tr>
-      <td>2018.01</td>
-      <td>紫羅蘭永恆花園</td>
-      <td>-2</td>
-      <td></td>
-      <td>-2</td>
-      <td>有丶垃圾</td>
-   </tr>
-   <tr>
-      <td>2016.09</td>
-      <td>聲之形</td>
-      <td>0</td>
-      <td>1</td>
-      <td>1</td>
-      <td>有丶一般</td>
-   </tr>
-   <tr>
-      <td>2016.08</td>
-      <td>你的名字</td>
-      <td>0</td>
-      <td>2</td>
-      <td>2</td>
-      <td>值得一看</td>
-   </tr>
-   <tr>
-      <td>2007.03</td>
-      <td>秒速5センチメートル</td>
-      <td>3</td>
-      <td>2</td>
-      <td>5</td>
-      <td>好评如潮</td>
-   </tr>
-   <tr>
-      <td></td>
-      <td>言葉之庭</td>
-      <td>1</td>
-      <td></td>
-      <td>1</td>
-      <td>有丶一般</td>
-   </tr>
-   <tr>
-      <td></td>
-      <td>涼宮春日的憂鬱</td>
-      <td>2</td>
-      <td></td>
-      <td>2</td>
-      <td>值得一看</td>
-   </tr>
-   <tr>
-      <td></td>
-      <td>櫻南高校男子公關部</td>
-      <td>1</td>
-      <td></td>
-      <td>1</td>
-      <td>有丶一般</td>
-   </tr>
-   <tr>
-      <td></td>
       <td>貓湯</td>
       <td>1</td>
       <td>2</td>
@@ -447,6 +223,126 @@ categories: AnimeCriticism
       <td>1</td>
       <td>2</td>
       <td>3</td>
+      <td>值得一看</td>
+   </tr>
+   <tr>
+      <td></td>
+      <td>星之聲</td>
+      <td>2</td>
+      <td>1</td>
+      <td>3</td>
+      <td>值得一看</td>
+   </tr>
+   <tr>
+      <td></td>
+      <td>讀或死</td>
+      <td>1</td>
+      <td>2</td>
+      <td>3</td>
+      <td>值得一看</td>
+   </tr>
+   <tr>
+      <td></td>
+      <td>伤物语</td>
+      <td>2</td>
+      <td>1</td>
+      <td>3</td>
+      <td>值得一看</td>
+   </tr>
+   <tr>
+      <td>2018.04</td>
+      <td>莉兹与青鸟</td>
+      <td>3</td>
+      <td></td>
+      <td>3</td>
+      <td>值得一看</td>
+   </tr>
+   <tr>
+      <td>2008.08</td>
+      <td>「空の境界」 第五章 矛盾螺旋</td>
+      <td>3</td>
+      <td></td>
+      <td>3</td>
+      <td>值得一看</td>
+   </tr>
+   <tr>
+      <td>2013.09</td>
+      <td>「空の境界」未来福音</td>
+      <td>3</td>
+      <td></td>
+      <td>3</td>
+      <td>值得一看</td>
+   </tr>
+   <tr>
+      <td></td>
+      <td>四月是你的谎言</td>
+      <td>1</td>
+      <td>1</td>
+      <td>2</td>
+      <td>值得一看</td>
+   </tr>
+   <tr>
+      <td></td>
+      <td>灰羽联盟</td>
+      <td>2</td>
+      <td></td>
+      <td>2</td>
+      <td>值得一看</td>
+   </tr>
+   <tr>
+      <td></td>
+      <td>濑户的花嫁</td>
+      <td>1</td>
+      <td>1</td>
+      <td>2</td>
+      <td>值得一看</td>
+   </tr>
+   <tr>
+      <td></td>
+      <td>自新世界</td>
+      <td>0</td>
+      <td>2</td>
+      <td>2</td>
+      <td>值得一看</td>
+   </tr>
+   <tr>
+      <td></td>
+      <td>飞越巅峰！</td>
+      <td>2</td>
+      <td></td>
+      <td>2</td>
+      <td>值得一看</td>
+   </tr>
+   <tr>
+      <td></td>
+      <td>绝望先生</td>
+      <td>2</td>
+      <td></td>
+      <td>2</td>
+      <td>值得一看</td>
+   </tr>
+   <tr>
+      <td></td>
+      <td>冰菓</td>
+      <td>1</td>
+      <td>1</td>
+      <td>2</td>
+      <td>值得一看</td>
+   </tr>
+   <tr>
+      <td>2016.08</td>
+      <td>你的名字</td>
+      <td>0</td>
+      <td>2</td>
+      <td>2</td>
+      <td>值得一看</td>
+   </tr>
+   <tr>
+      <td></td>
+      <td>涼宮春日的憂鬱</td>
+      <td>2</td>
+      <td></td>
+      <td>2</td>
       <td>值得一看</td>
    </tr>
    <tr>
@@ -464,86 +360,6 @@ categories: AnimeCriticism
       <td></td>
       <td>2</td>
       <td>值得一看</td>
-   </tr>
-   <tr>
-      <td></td>
-      <td>妄想學生會</td>
-      <td>1</td>
-      <td></td>
-      <td>1</td>
-      <td>有丶一般</td>
-   </tr>
-   <tr>
-      <td></td>
-      <td>天才嘉年華</td>
-      <td>2</td>
-      <td>2</td>
-      <td>4</td>
-      <td>好评如潮</td>
-   </tr>
-   <tr>
-      <td></td>
-      <td>星之聲</td>
-      <td>2</td>
-      <td>1</td>
-      <td>3</td>
-      <td>值得一看</td>
-   </tr>
-   <tr>
-      <td></td>
-      <td>她與她的貓</td>
-      <td>2</td>
-      <td>2</td>
-      <td>4</td>
-      <td>好评如潮</td>
-   </tr>
-   <tr>
-      <td></td>
-      <td>歡迎來到實力主義至上的教室</td>
-      <td>-1</td>
-      <td>0</td>
-      <td>-1</td>
-      <td>有丶垃圾</td>
-   </tr>
-   <tr>
-      <td></td>
-      <td>未聞花名</td>
-      <td>0</td>
-      <td></td>
-      <td>0</td>
-      <td>有丶一般</td>
-   </tr>
-   <tr>
-      <td></td>
-      <td>月色真美</td>
-      <td>0</td>
-      <td></td>
-      <td>0</td>
-      <td>有丶一般</td>
-   </tr>
-   <tr>
-      <td></td>
-      <td>笨女孩</td>
-      <td>1</td>
-      <td></td>
-      <td>1</td>
-      <td>有丶一般</td>
-   </tr>
-   <tr>
-      <td></td>
-      <td>齐木楠雄的灾难</td>
-      <td>1</td>
-      <td></td>
-      <td>1</td>
-      <td>有丶一般</td>
-   </tr>
-   <tr>
-      <td></td>
-      <td>在下坂本，有何贵干？</td>
-      <td>1</td>
-      <td></td>
-      <td>1</td>
-      <td>有丶一般</td>
    </tr>
    <tr>
       <td></td>
@@ -579,59 +395,11 @@ categories: AnimeCriticism
    </tr>
    <tr>
       <td></td>
-      <td>The Soul Taker ～魂狩～</td>
-      <td>0</td>
-      <td></td>
-      <td>0</td>
-      <td>有丶一般</td>
-   </tr>
-   <tr>
-      <td></td>
-      <td>紅辣椒</td>
-      <td>2</td>
-      <td>3</td>
-      <td>5</td>
-      <td>好评如潮</td>
-   </tr>
-   <tr>
-      <td></td>
-      <td>千年女優</td>
-      <td>1</td>
-      <td>3</td>
-      <td>4</td>
-      <td>好评如潮</td>
-   </tr>
-   <tr>
-      <td></td>
       <td>凉宫春日的消失</td>
       <td>2</td>
       <td></td>
       <td>2</td>
       <td>值得一看</td>
-   </tr>
-   <tr>
-      <td></td>
-      <td>星際牛仔Cowboy Bebop</td>
-      <td>2</td>
-      <td>2</td>
-      <td>4</td>
-      <td>好评如潮</td>
-   </tr>
-   <tr>
-      <td></td>
-      <td>悠哉日常大王</td>
-      <td>1</td>
-      <td></td>
-      <td>1</td>
-      <td>有丶一般</td>
-   </tr>
-   <tr>
-      <td></td>
-      <td>幸运星</td>
-      <td>1</td>
-      <td></td>
-      <td>1</td>
-      <td>有丶一般</td>
    </tr>
    <tr>
       <td>2015.04</td>
@@ -675,67 +443,315 @@ categories: AnimeCriticism
    </tr>
    <tr>
       <td></td>
-      <td>戀愛隨意連結</td>
-      <td>0</td>
-      <td></td>
-      <td>0</td>
-      <td>有丶一般</td>
-   </tr>
-   <tr>
-      <td></td>
-      <td>櫻花莊的寵物女孩</td>
-      <td>-1</td>
-      <td></td>
-      <td>-1</td>
-      <td>有丶垃圾</td>
-   </tr>
-   <tr>
-      <td></td>
-      <td>路人女主的養成計劃</td>
-      <td>-1</td>
-      <td>1</td>
-      <td>0</td>
-      <td>有丶一般</td>
-   </tr>
-   <tr>
-      <td></td>
-      <td>請問您今天要來點兔子嗎</td>
-      <td>0</td>
-      <td></td>
-      <td>0</td>
-      <td>有丶一般</td>
-   </tr>
-   <tr>
-      <td></td>
-      <td>Another</td>
-      <td>-1</td>
-      <td></td>
-      <td>-1</td>
-      <td>有丶垃圾</td>
-   </tr>
-   <tr>
-      <td></td>
-      <td>尸体派对</td>
-      <td>0</td>
-      <td>0</td>
-      <td>0</td>
-      <td>有丶一般</td>
-   </tr>
-   <tr>
-      <td></td>
-      <td>狼的孩子雨和雪</td>
-      <td>0</td>
-      <td></td>
-      <td>0</td>
-      <td>有丶一般</td>
-   </tr>
-   <tr>
-      <td></td>
       <td>花与爱丽丝杀人事件</td>
       <td>1</td>
       <td>1</td>
       <td>2</td>
       <td>值得一看</td>
+   </tr>
+   <tr>
+      <td></td>
+      <td>青色文学系列</td>
+      <td>1</td>
+      <td>1</td>
+      <td>2</td>
+      <td>值得一看</td>
+   </tr>
+   <tr>
+      <td></td>
+      <td>心理测量者</td>
+      <td>0</td>
+      <td>2</td>
+      <td>2</td>
+      <td>值得一看</td>
+   </tr>
+   <tr>
+      <td></td>
+      <td>一起一起这里那里</td>
+      <td>1</td>
+      <td>1</td>
+      <td>2</td>
+      <td>值得一看</td>
+   </tr>
+   <tr>
+      <td></td>
+      <td>锁锁美同学@提不起劲</td>
+      <td>2</td>
+      <td></td>
+      <td>2</td>
+      <td>值得一看</td>
+   </tr>
+   <tr>
+      <td></td>
+      <td>星期一的丰满</td>
+      <td>0</td>
+      <td>2</td>
+      <td>2</td>
+      <td>值得一看</td>
+   </tr>
+   <tr>
+      <td></td>
+      <td>翼·年代记</td>
+      <td>2</td>
+      <td></td>
+      <td>2</td>
+      <td>值得一看</td>
+   </tr>
+   <tr>
+      <td></td>
+      <td>历物语</td>
+      <td>1</td>
+      <td>1</td>
+      <td>2</td>
+      <td>值得一看</td>
+   </tr>
+   <tr>
+      <td></td>
+      <td>Kill La Kill 斩服少女</td>
+      <td>2</td>
+      <td></td>
+      <td>2</td>
+      <td>值得一看</td>
+   </tr>
+   <tr>
+      <td></td>
+      <td>狼与香辛料</td>
+      <td></td>
+      <td>2</td>
+      <td>2</td>
+      <td>值得一看</td>
+   </tr>
+   <tr>
+      <td>2014.04</td>
+      <td>玉子爱情故事</td>
+      <td>2</td>
+      <td></td>
+      <td>2</td>
+      <td>值得一看</td>
+   </tr>
+   <tr>
+      <td>2016.10</td>
+      <td>吹响吧！上低音号2</td>
+      <td>2</td>
+      <td></td>
+      <td>2</td>
+      <td>值得一看</td>
+   </tr>
+   <tr>
+      <td></td>
+      <td>宇宙巡警露露子</td>
+      <td>2</td>
+      <td></td>
+      <td>2</td>
+      <td>值得一看</td>
+   </tr>
+   <tr>
+      <td>2001.07</td>
+      <td>千與千尋</td>
+      <td>2</td>
+      <td></td>
+      <td>2</td>
+      <td>值得一看</td>
+   </tr>
+   <tr>
+      <td>2007.12</td>
+      <td>「空の境界」 第一章 俯瞰風景</td>
+      <td>2</td>
+      <td></td>
+      <td>2</td>
+      <td>值得一看</td>
+   </tr>
+   <tr>
+      <td>2007.12</td>
+      <td>「空の境界」 第二章 殺人考察（前）</td>
+      <td>2</td>
+      <td></td>
+      <td>2</td>
+      <td>值得一看</td>
+   </tr>
+   <tr>
+      <td>2008.05</td>
+      <td>「空の境界」 第四章 伽藍の洞</td>
+      <td>2</td>
+      <td></td>
+      <td>2</td>
+      <td>值得一看</td>
+   </tr>
+   <tr>
+      <td>2009.08</td>
+      <td>「空の境界」 第七章 殺人考察（後）</td>
+      <td>2</td>
+      <td></td>
+      <td>2</td>
+      <td>值得一看</td>
+   </tr>
+   <tr>
+      <td>2011.02</td>
+      <td>「空の境界」 終章/空の境界</td>
+      <td>2</td>
+      <td></td>
+      <td>2</td>
+      <td>值得一看</td>
+   </tr>
+   <tr>
+      <td></td>
+      <td>宅男腐女恋爱真难</td>
+      <td></td>
+      <td>1</td>
+      <td>1</td>
+      <td>有丶一般</td>
+   </tr>
+   <tr>
+      <td></td>
+      <td>Clannad</td>
+      <td>1</td>
+      <td></td>
+      <td>1</td>
+      <td>有丶一般</td>
+   </tr>
+   <tr>
+      <td></td>
+      <td>Air</td>
+      <td>0</td>
+      <td>1</td>
+      <td>1</td>
+      <td>有丶一般</td>
+   </tr>
+   <tr>
+      <td>2013.10</td>
+      <td>白色相薄2</td>
+      <td>1</td>
+      <td></td>
+      <td>1</td>
+      <td>有丶一般</td>
+   </tr>
+   <tr>
+      <td></td>
+      <td>中二病也要谈恋爱</td>
+      <td>1</td>
+      <td></td>
+      <td>1</td>
+      <td>有丶一般</td>
+   </tr>
+   <tr>
+      <td></td>
+      <td>命运石之门Stein;Gates</td>
+      <td>1</td>
+      <td></td>
+      <td>1</td>
+      <td>有丶一般</td>
+   </tr>
+   <tr>
+      <td></td>
+      <td>珂赛特的肖像</td>
+      <td>1</td>
+      <td></td>
+      <td>1</td>
+      <td>有丶一般</td>
+   </tr>
+   <tr>
+      <td>2007.07</td>
+      <td>School Days</td>
+      <td>2</td>
+      <td>-1</td>
+      <td>1</td>
+      <td>有丶一般</td>
+   </tr>
+   <tr>
+      <td></td>
+      <td>东京残响</td>
+      <td>-1</td>
+      <td>2</td>
+      <td>1</td>
+      <td>有丶一般</td>
+   </tr>
+   <tr>
+      <td></td>
+      <td>天才麻將少女</td>
+      <td>1</td>
+      <td></td>
+      <td>1</td>
+      <td>有丶一般</td>
+   </tr>
+   <tr>
+      <td></td>
+      <td>鋼之煉金術士</td>
+      <td>1</td>
+      <td></td>
+      <td>1</td>
+      <td>有丶一般</td>
+   </tr>
+   <tr>
+      <td>2016.09</td>
+      <td>聲之形</td>
+      <td>0</td>
+      <td>1</td>
+      <td>1</td>
+      <td>有丶一般</td>
+   </tr>
+   <tr>
+      <td></td>
+      <td>言葉之庭</td>
+      <td>1</td>
+      <td></td>
+      <td>1</td>
+      <td>有丶一般</td>
+   </tr>
+   <tr>
+      <td></td>
+      <td>櫻南高校男子公關部</td>
+      <td>1</td>
+      <td></td>
+      <td>1</td>
+      <td>有丶一般</td>
+   </tr>
+   <tr>
+      <td></td>
+      <td>妄想學生會</td>
+      <td>1</td>
+      <td></td>
+      <td>1</td>
+      <td>有丶一般</td>
+   </tr>
+   <tr>
+      <td></td>
+      <td>笨女孩</td>
+      <td>1</td>
+      <td></td>
+      <td>1</td>
+      <td>有丶一般</td>
+   </tr>
+   <tr>
+      <td></td>
+      <td>齐木楠雄的灾难</td>
+      <td>1</td>
+      <td></td>
+      <td>1</td>
+      <td>有丶一般</td>
+   </tr>
+   <tr>
+      <td></td>
+      <td>在下坂本，有何贵干？</td>
+      <td>1</td>
+      <td></td>
+      <td>1</td>
+      <td>有丶一般</td>
+   </tr>
+   <tr>
+      <td></td>
+      <td>悠哉日常大王</td>
+      <td>1</td>
+      <td></td>
+      <td>1</td>
+      <td>有丶一般</td>
+   </tr>
+   <tr>
+      <td></td>
+      <td>幸运星</td>
+      <td>1</td>
+      <td></td>
+      <td>1</td>
+      <td>有丶一般</td>
    </tr>
    <tr>
       <td>2018.01</td>
@@ -755,11 +771,243 @@ categories: AnimeCriticism
    </tr>
    <tr>
       <td></td>
-      <td>地球防衛少年</td>
-      <td>-3</td>
+      <td>只有神知道的世界</td>
+      <td>1</td>
       <td></td>
-      <td>-3</td>
-      <td>有丶垃圾</td>
+      <td>1</td>
+      <td>有丶一般</td>
+   </tr>
+   <tr>
+      <td></td>
+      <td>螢火之森</td>
+      <td>1</td>
+      <td></td>
+      <td>1</td>
+      <td>有丶一般</td>
+   </tr>
+   <tr>
+      <td>2014.4</td>
+      <td>遊戲人生No Game No Life</td>
+      <td>1</td>
+      <td></td>
+      <td>1</td>
+      <td>有丶一般</td>
+   </tr>
+   <tr>
+      <td></td>
+      <td>我不受歡迎怎麼想都是你們的錯</td>
+      <td>1</td>
+      <td></td>
+      <td>1</td>
+      <td>有丶一般</td>
+   </tr>
+   <tr>
+      <td>2017.08</td>
+      <td>升空的焰火，从下面看？还是从侧面看？</td>
+      <td>1</td>
+      <td></td>
+      <td>1</td>
+      <td>有丶一般</td>
+   </tr>
+   <tr>
+      <td></td>
+      <td>乱步奇谭 Game of Laplace</td>
+      <td>1</td>
+      <td></td>
+      <td>1</td>
+      <td>有丶一般</td>
+   </tr>
+   <tr>
+      <td></td>
+      <td>死亡筆記</td>
+      <td>1</td>
+      <td></td>
+      <td>1</td>
+      <td>有丶一般</td>
+   </tr>
+   <tr>
+      <td></td>
+      <td>上课小动作</td>
+      <td>1</td>
+      <td></td>
+      <td>1</td>
+      <td>有丶一般</td>
+   </tr>
+   <tr>
+      <td></td>
+      <td>斩首循环 蓝色学者与戏言跟班</td>
+      <td>1</td>
+      <td></td>
+      <td>1</td>
+      <td>有丶一般</td>
+   </tr>
+   <tr>
+      <td></td>
+      <td>妖精的旋律</td>
+      <td>1</td>
+      <td></td>
+      <td>1</td>
+      <td>有丶一般</td>
+   </tr>
+   <tr>
+      <td></td>
+      <td>Fate/Stay Night Havens Feel</td>
+      <td>1</td>
+      <td></td>
+      <td>1</td>
+      <td>有丶一般</td>
+   </tr>
+   <tr>
+      <td></td>
+      <td>变态王子与不笑猫</td>
+      <td>1</td>
+      <td></td>
+      <td>1</td>
+      <td>有丶一般</td>
+   </tr>
+   <tr>
+      <td></td>
+      <td>island</td>
+      <td>1</td>
+      <td></td>
+      <td>1</td>
+      <td>有丶一般</td>
+   </tr>
+   <tr>
+      <td></td>
+      <td>命运石之门0</td>
+      <td>1</td>
+      <td></td>
+      <td>1</td>
+      <td>有丶一般</td>
+   </tr>
+   <tr>
+      <td></td>
+      <td>Little Busters! ～Refrain～</td>
+      <td>1</td>
+      <td></td>
+      <td>1</td>
+      <td>有丶一般</td>
+   </tr>
+   <tr>
+      <td></td>
+      <td>云之彼端 约定的地方</td>
+      <td></td>
+      <td>1</td>
+      <td>1</td>
+      <td>有丶一般</td>
+   </tr>
+   <tr>
+      <td></td>
+      <td>弦音 -风舞高中弓道部-</td>
+      <td>1</td>
+      <td></td>
+      <td>1</td>
+      <td>有丶一般</td>
+   </tr>
+   <tr>
+      <td></td>
+      <td>女神異聞錄5</td>
+      <td>1</td>
+      <td></td>
+      <td>1</td>
+      <td>有丶一般</td>
+   </tr>
+   <tr>
+      <td>2011.04</td>
+      <td>恶魔阿萨谢尔在召唤你</td>
+      <td>1</td>
+      <td></td>
+      <td>1</td>
+      <td>有丶一般</td>
+   </tr>
+   <tr>
+      <td>2008.01</td>
+      <td>「空の境界」 第三章 痛覚残留</td>
+      <td>1</td>
+      <td></td>
+      <td>1</td>
+      <td>有丶一般</td>
+   </tr>
+   <tr>
+      <td></td>
+      <td>东京喰种</td>
+      <td></td>
+      <td>0</td>
+      <td>0</td>
+      <td>有丶一般</td>
+   </tr>
+   <tr>
+      <td></td>
+      <td>海猫鸣泣之时</td>
+      <td>-1</td>
+      <td>1</td>
+      <td>0</td>
+      <td>有丶一般</td>
+   </tr>
+   <tr>
+      <td></td>
+      <td>未聞花名</td>
+      <td>0</td>
+      <td></td>
+      <td>0</td>
+      <td>有丶一般</td>
+   </tr>
+   <tr>
+      <td></td>
+      <td>月色真美</td>
+      <td>0</td>
+      <td></td>
+      <td>0</td>
+      <td>有丶一般</td>
+   </tr>
+   <tr>
+      <td></td>
+      <td>The Soul Taker ～魂狩～</td>
+      <td>0</td>
+      <td></td>
+      <td>0</td>
+      <td>有丶一般</td>
+   </tr>
+   <tr>
+      <td></td>
+      <td>戀愛隨意連結</td>
+      <td>0</td>
+      <td></td>
+      <td>0</td>
+      <td>有丶一般</td>
+   </tr>
+   <tr>
+      <td></td>
+      <td>路人女主的養成計劃</td>
+      <td>-1</td>
+      <td>1</td>
+      <td>0</td>
+      <td>有丶一般</td>
+   </tr>
+   <tr>
+      <td></td>
+      <td>請問您今天要來點兔子嗎</td>
+      <td>0</td>
+      <td></td>
+      <td>0</td>
+      <td>有丶一般</td>
+   </tr>
+   <tr>
+      <td></td>
+      <td>尸体派对</td>
+      <td>0</td>
+      <td>0</td>
+      <td>0</td>
+      <td>有丶一般</td>
+   </tr>
+   <tr>
+      <td></td>
+      <td>狼的孩子雨和雪</td>
+      <td>0</td>
+      <td></td>
+      <td>0</td>
+      <td>有丶一般</td>
    </tr>
    <tr>
       <td></td>
@@ -787,26 +1035,10 @@ categories: AnimeCriticism
    </tr>
    <tr>
       <td></td>
-      <td>青色文学系列</td>
-      <td>1</td>
-      <td>1</td>
-      <td>2</td>
-      <td>值得一看</td>
-   </tr>
-   <tr>
-      <td></td>
       <td>One Room</td>
       <td>0</td>
       <td></td>
       <td>0</td>
-      <td>有丶一般</td>
-   </tr>
-   <tr>
-      <td></td>
-      <td>只有神知道的世界</td>
-      <td>1</td>
-      <td></td>
-      <td>1</td>
       <td>有丶一般</td>
    </tr>
    <tr>
@@ -819,59 +1051,11 @@ categories: AnimeCriticism
    </tr>
    <tr>
       <td></td>
-      <td>螢火之森</td>
-      <td>1</td>
-      <td></td>
-      <td>1</td>
-      <td>有丶一般</td>
-   </tr>
-   <tr>
-      <td></td>
       <td>爱丽丝与藏六</td>
       <td>0</td>
       <td></td>
       <td>0</td>
       <td>有丶一般</td>
-   </tr>
-   <tr>
-      <td>2014.4</td>
-      <td>遊戲人生No Game No Life</td>
-      <td>1</td>
-      <td></td>
-      <td>1</td>
-      <td>有丶一般</td>
-   </tr>
-   <tr>
-      <td></td>
-      <td>心理测量者</td>
-      <td>0</td>
-      <td>2</td>
-      <td>2</td>
-      <td>值得一看</td>
-   </tr>
-   <tr>
-      <td></td>
-      <td>我不受歡迎怎麼想都是你們的錯</td>
-      <td>1</td>
-      <td></td>
-      <td>1</td>
-      <td>有丶一般</td>
-   </tr>
-   <tr>
-      <td></td>
-      <td>12歲</td>
-      <td>-1</td>
-      <td></td>
-      <td>-1</td>
-      <td>有丶垃圾</td>
-   </tr>
-   <tr>
-      <td></td>
-      <td>艦隊Collection</td>
-      <td>0</td>
-      <td>-1</td>
-      <td>-1</td>
-      <td>有丶垃圾</td>
    </tr>
    <tr>
       <td></td>
@@ -882,43 +1066,11 @@ categories: AnimeCriticism
       <td>有丶一般</td>
    </tr>
    <tr>
-      <td>2017.08</td>
-      <td>升空的焰火，从下面看？还是从侧面看？</td>
-      <td>1</td>
-      <td></td>
-      <td>1</td>
-      <td>有丶一般</td>
-   </tr>
-   <tr>
-      <td></td>
-      <td>一起一起这里那里</td>
-      <td>1</td>
-      <td>1</td>
-      <td>2</td>
-      <td>值得一看</td>
-   </tr>
-   <tr>
       <td></td>
       <td>陽炎Project</td>
       <td>0</td>
       <td></td>
       <td>0</td>
-      <td>有丶一般</td>
-   </tr>
-   <tr>
-      <td></td>
-      <td>我,要成为双马尾</td>
-      <td>-2</td>
-      <td></td>
-      <td>-2</td>
-      <td>有丶垃圾</td>
-   </tr>
-   <tr>
-      <td></td>
-      <td>乱步奇谭 Game of Laplace</td>
-      <td>1</td>
-      <td></td>
-      <td>1</td>
       <td>有丶一般</td>
    </tr>
    <tr>
@@ -931,107 +1083,11 @@ categories: AnimeCriticism
    </tr>
    <tr>
       <td></td>
-      <td>讀或死</td>
-      <td>1</td>
-      <td>2</td>
-      <td>3</td>
-      <td>值得一看</td>
-   </tr>
-   <tr>
-      <td></td>
-      <td>未来日记</td>
-      <td>-1</td>
-      <td></td>
-      <td>-1</td>
-      <td>有丶垃圾</td>
-   </tr>
-   <tr>
-      <td></td>
-      <td>死亡筆記</td>
-      <td>1</td>
-      <td></td>
-      <td>1</td>
-      <td>有丶一般</td>
-   </tr>
-   <tr>
-      <td></td>
-      <td>约会大作战</td>
-      <td>-1</td>
-      <td>-1</td>
-      <td>-2</td>
-      <td>有丶垃圾</td>
-   </tr>
-   <tr>
-      <td></td>
-      <td>上课小动作</td>
-      <td>1</td>
-      <td></td>
-      <td>1</td>
-      <td>有丶一般</td>
-   </tr>
-   <tr>
-      <td></td>
-      <td>锁锁美同学@提不起劲</td>
-      <td>2</td>
-      <td></td>
-      <td>2</td>
-      <td>值得一看</td>
-   </tr>
-   <tr>
-      <td></td>
       <td>灼眼的夏娜</td>
       <td>0</td>
       <td></td>
       <td>0</td>
       <td>有丶一般</td>
-   </tr>
-   <tr>
-      <td></td>
-      <td>十二大战</td>
-      <td>-1</td>
-      <td></td>
-      <td>-1</td>
-      <td>有丶垃圾</td>
-   </tr>
-   <tr>
-      <td></td>
-      <td>斩首循环 蓝色学者与戏言跟班</td>
-      <td>1</td>
-      <td></td>
-      <td>1</td>
-      <td>有丶一般</td>
-   </tr>
-   <tr>
-      <td></td>
-      <td>我的青春恋爱物语果然有问题</td>
-      <td>2</td>
-      <td>2</td>
-      <td>4</td>
-      <td>好评如潮</td>
-   </tr>
-   <tr>
-      <td></td>
-      <td>妖精的旋律</td>
-      <td>1</td>
-      <td></td>
-      <td>1</td>
-      <td>有丶一般</td>
-   </tr>
-   <tr>
-      <td></td>
-      <td>Fate/Stay Night Havens Feel</td>
-      <td>1</td>
-      <td></td>
-      <td>1</td>
-      <td>有丶一般</td>
-   </tr>
-   <tr>
-      <td></td>
-      <td>星期一的丰满</td>
-      <td>0</td>
-      <td>2</td>
-      <td>2</td>
-      <td>值得一看</td>
    </tr>
    <tr>
       <td></td>
@@ -1043,22 +1099,6 @@ categories: AnimeCriticism
    </tr>
    <tr>
       <td></td>
-      <td>变态王子与不笑猫</td>
-      <td>1</td>
-      <td></td>
-      <td>1</td>
-      <td>有丶一般</td>
-   </tr>
-   <tr>
-      <td></td>
-      <td>翼·年代记</td>
-      <td>2</td>
-      <td></td>
-      <td>2</td>
-      <td>值得一看</td>
-   </tr>
-   <tr>
-      <td></td>
       <td>少女终末旅行</td>
       <td>0</td>
       <td></td>
@@ -1067,66 +1107,10 @@ categories: AnimeCriticism
    </tr>
    <tr>
       <td></td>
-      <td>伪物语</td>
-      <td>2</td>
-      <td>3</td>
-      <td>5</td>
-      <td>好评如潮</td>
-   </tr>
-   <tr>
-      <td></td>
-      <td>终物语</td>
-      <td>3</td>
-      <td>1</td>
-      <td>4</td>
-      <td>好评如潮</td>
-   </tr>
-   <tr>
-      <td></td>
-      <td>伤物语</td>
-      <td>2</td>
-      <td>1</td>
-      <td>3</td>
-      <td>值得一看</td>
-   </tr>
-   <tr>
-      <td></td>
-      <td>历物语</td>
-      <td>1</td>
-      <td>1</td>
-      <td>2</td>
-      <td>值得一看</td>
-   </tr>
-   <tr>
-      <td></td>
-      <td>island</td>
-      <td>1</td>
-      <td></td>
-      <td>1</td>
-      <td>有丶一般</td>
-   </tr>
-   <tr>
-      <td></td>
-      <td>Kill La Kill 斩服少女</td>
-      <td>2</td>
-      <td></td>
-      <td>2</td>
-      <td>值得一看</td>
-   </tr>
-   <tr>
-      <td></td>
       <td>Planet With 行星与共</td>
       <td>0</td>
       <td></td>
       <td>0</td>
-      <td>有丶一般</td>
-   </tr>
-   <tr>
-      <td></td>
-      <td>命运石之门0</td>
-      <td>1</td>
-      <td></td>
-      <td>1</td>
       <td>有丶一般</td>
    </tr>
    <tr>
@@ -1147,54 +1131,6 @@ categories: AnimeCriticism
    </tr>
    <tr>
       <td></td>
-      <td>Little Busters! ～Refrain～</td>
-      <td>1</td>
-      <td></td>
-      <td>1</td>
-      <td>有丶一般</td>
-   </tr>
-   <tr>
-      <td>2018.10</td>
-      <td>青春ブタ少年不会梦到兔女郎学姐</td>
-      <td>-1</td>
-      <td></td>
-      <td>-1</td>
-      <td>有丶垃圾</td>
-   </tr>
-   <tr>
-      <td></td>
-      <td>狼与香辛料</td>
-      <td></td>
-      <td>2</td>
-      <td>2</td>
-      <td>值得一看</td>
-   </tr>
-   <tr>
-      <td>2014.04</td>
-      <td>玉子爱情故事</td>
-      <td>2</td>
-      <td></td>
-      <td>2</td>
-      <td>值得一看</td>
-   </tr>
-   <tr>
-      <td></td>
-      <td>云之彼端 约定的地方</td>
-      <td></td>
-      <td>1</td>
-      <td>1</td>
-      <td>有丶一般</td>
-   </tr>
-   <tr>
-      <td></td>
-      <td>吊带袜天使</td>
-      <td></td>
-      <td>3</td>
-      <td>3</td>
-      <td>值得一看</td>
-   </tr>
-   <tr>
-      <td></td>
       <td>FLCL Alternative</td>
       <td></td>
       <td></td>
@@ -1211,43 +1147,11 @@ categories: AnimeCriticism
    </tr>
    <tr>
       <td></td>
-      <td>弦音 -风舞高中弓道部-</td>
-      <td>1</td>
-      <td></td>
-      <td>1</td>
-      <td>有丶一般</td>
-   </tr>
-   <tr>
-      <td></td>
       <td>魔法禁書目錄III</td>
       <td>0</td>
       <td></td>
       <td>0</td>
       <td>有丶一般</td>
-   </tr>
-   <tr>
-      <td>2018.04</td>
-      <td>莉兹与青鸟</td>
-      <td>3</td>
-      <td></td>
-      <td>3</td>
-      <td>值得一看</td>
-   </tr>
-   <tr>
-      <td>2018.02</td>
-      <td>朝花夕誓 于离别之朝束起约定之花</td>
-      <td>-3</td>
-      <td></td>
-      <td>-3</td>
-      <td>有丶垃圾</td>
-   </tr>
-   <tr>
-      <td>2016.10</td>
-      <td>吹响吧！上低音号2</td>
-      <td>2</td>
-      <td></td>
-      <td>2</td>
-      <td>值得一看</td>
    </tr>
    <tr>
       <td></td>
@@ -1338,30 +1242,6 @@ categories: AnimeCriticism
       <td>有丶一般</td>
    </tr>
    <tr>
-      <td></td>
-      <td>终将成为你</td>
-      <td>-2</td>
-      <td></td>
-      <td>-2</td>
-      <td>有丶垃圾</td>
-   </tr>
-   <tr>
-      <td></td>
-      <td>女神異聞錄5</td>
-      <td>1</td>
-      <td></td>
-      <td>1</td>
-      <td>有丶一般</td>
-   </tr>
-   <tr>
-      <td></td>
-      <td>宇宙巡警露露子</td>
-      <td>2</td>
-      <td></td>
-      <td>2</td>
-      <td>值得一看</td>
-   </tr>
-   <tr>
       <td>2018.09</td>
       <td>君の膵臓をたべたい</td>
       <td></td>
@@ -1442,43 +1322,11 @@ categories: AnimeCriticism
       <td>有丶一般</td>
    </tr>
    <tr>
-      <td>2019.01</td>
-      <td>荒野的寿飞行队</td>
-      <td></td>
-      <td></td>
-      <td>0</td>
-      <td>有丶一般</td>
-   </tr>
-   <tr>
       <td>2019.07</td>
       <td>君主·埃尔梅罗二世事件簿 魔眼搜集列车</td>
       <td></td>
       <td></td>
       <td>0</td>
-      <td>有丶一般</td>
-   </tr>
-   <tr>
-      <td>2017.07</td>
-      <td>NO GAME NO LIFE  ZERO</td>
-      <td>-1</td>
-      <td></td>
-      <td>-1</td>
-      <td>有丶垃圾</td>
-   </tr>
-   <tr>
-      <td>2018.01</td>
-      <td>中二病也要谈恋爱！-Take On Me-</td>
-      <td>-1</td>
-      <td></td>
-      <td>-1</td>
-      <td>有丶垃圾</td>
-   </tr>
-   <tr>
-      <td>2011.04</td>
-      <td>恶魔阿萨谢尔在召唤你</td>
-      <td>1</td>
-      <td></td>
-      <td>1</td>
       <td>有丶一般</td>
    </tr>
    <tr>
@@ -1488,14 +1336,6 @@ categories: AnimeCriticism
       <td></td>
       <td>0</td>
       <td>有丶一般</td>
-   </tr>
-   <tr>
-      <td>2017.07</td>
-      <td>Fate/Apocrypha</td>
-      <td>-2</td>
-      <td></td>
-      <td>-2</td>
-      <td>有丶垃圾</td>
    </tr>
    <tr>
       <td>1998.04</td>
@@ -1514,14 +1354,6 @@ categories: AnimeCriticism
       <td>有丶一般</td>
    </tr>
    <tr>
-      <td>2001.07</td>
-      <td>千與千尋</td>
-      <td>2</td>
-      <td></td>
-      <td>2</td>
-      <td>值得一看</td>
-   </tr>
-   <tr>
       <td>2019.01</td>
       <td>多罗罗</td>
       <td></td>
@@ -1530,73 +1362,9 @@ categories: AnimeCriticism
       <td>有丶一般</td>
    </tr>
    <tr>
-      <td>2007.12</td>
-      <td>「空の境界」 第一章 俯瞰風景</td>
-      <td>2</td>
-      <td></td>
-      <td>2</td>
-      <td>值得一看</td>
-   </tr>
-   <tr>
-      <td>2007.12</td>
-      <td>「空の境界」 第二章 殺人考察（前）</td>
-      <td>2</td>
-      <td></td>
-      <td>2</td>
-      <td>值得一看</td>
-   </tr>
-   <tr>
-      <td>2008.01</td>
-      <td>「空の境界」 第三章 痛覚残留</td>
-      <td>1</td>
-      <td></td>
-      <td>1</td>
-      <td>有丶一般</td>
-   </tr>
-   <tr>
-      <td>2008.05</td>
-      <td>「空の境界」 第四章 伽藍の洞</td>
-      <td>2</td>
-      <td></td>
-      <td>2</td>
-      <td>值得一看</td>
-   </tr>
-   <tr>
-      <td>2008.08</td>
-      <td>「空の境界」 第五章 矛盾螺旋</td>
-      <td>3</td>
-      <td></td>
-      <td>3</td>
-      <td>值得一看</td>
-   </tr>
-   <tr>
       <td>2008.12</td>
       <td>「空の境界」 第六章 忘却録音</td>
       <td>0</td>
-      <td></td>
-      <td>0</td>
-      <td>有丶一般</td>
-   </tr>
-   <tr>
-      <td>2009.08</td>
-      <td>「空の境界」 第七章 殺人考察（後）</td>
-      <td></td>
-      <td></td>
-      <td>0</td>
-      <td>有丶一般</td>
-   </tr>
-   <tr>
-      <td>2011.02</td>
-      <td>「空の境界」 終章/空の境界</td>
-      <td></td>
-      <td></td>
-      <td>0</td>
-      <td>有丶一般</td>
-   </tr>
-   <tr>
-      <td>2013.09</td>
-      <td>「空の境界」未来福音</td>
-      <td></td>
       <td></td>
       <td>0</td>
       <td>有丶一般</td>
@@ -1608,5 +1376,229 @@ categories: AnimeCriticism
       <td></td>
       <td>0</td>
       <td>有丶一般</td>
+   </tr>
+   <tr>
+      <td></td>
+      <td>Fate/Last Encoder</td>
+      <td>-1</td>
+      <td></td>
+      <td>-1</td>
+      <td>有丶垃圾</td>
+   </tr>
+   <tr>
+      <td></td>
+      <td>Angel Beats!</td>
+      <td>0</td>
+      <td>-1</td>
+      <td>-1</td>
+      <td>有丶垃圾</td>
+   </tr>
+   <tr>
+      <td></td>
+      <td>Love Live!</td>
+      <td>0</td>
+      <td>-1</td>
+      <td>-1</td>
+      <td>有丶垃圾</td>
+   </tr>
+   <tr>
+      <td></td>
+      <td>Megalo Box</td>
+      <td>-1</td>
+      <td></td>
+      <td>-1</td>
+      <td>有丶垃圾</td>
+   </tr>
+   <tr>
+      <td></td>
+      <td>歡迎來到實力主義至上的教室</td>
+      <td>-1</td>
+      <td>0</td>
+      <td>-1</td>
+      <td>有丶垃圾</td>
+   </tr>
+   <tr>
+      <td></td>
+      <td>櫻花莊的寵物女孩</td>
+      <td>-1</td>
+      <td></td>
+      <td>-1</td>
+      <td>有丶垃圾</td>
+   </tr>
+   <tr>
+      <td></td>
+      <td>Another</td>
+      <td>-1</td>
+      <td></td>
+      <td>-1</td>
+      <td>有丶垃圾</td>
+   </tr>
+   <tr>
+      <td></td>
+      <td>12歲</td>
+      <td>-1</td>
+      <td></td>
+      <td>-1</td>
+      <td>有丶垃圾</td>
+   </tr>
+   <tr>
+      <td></td>
+      <td>艦隊Collection</td>
+      <td>0</td>
+      <td>-1</td>
+      <td>-1</td>
+      <td>有丶垃圾</td>
+   </tr>
+   <tr>
+      <td></td>
+      <td>未来日记</td>
+      <td>-1</td>
+      <td></td>
+      <td>-1</td>
+      <td>有丶垃圾</td>
+   </tr>
+   <tr>
+      <td></td>
+      <td>十二大战</td>
+      <td>-1</td>
+      <td></td>
+      <td>-1</td>
+      <td>有丶垃圾</td>
+   </tr>
+   <tr>
+      <td>2018.10</td>
+      <td>青春ブタ少年不会梦到兔女郎学姐</td>
+      <td>-1</td>
+      <td></td>
+      <td>-1</td>
+      <td>有丶垃圾</td>
+   </tr>
+   <tr>
+      <td>2017.07</td>
+      <td>NO GAME NO LIFE  ZERO</td>
+      <td>-1</td>
+      <td></td>
+      <td>-1</td>
+      <td>有丶垃圾</td>
+   </tr>
+   <tr>
+      <td>2018.01</td>
+      <td>中二病也要谈恋爱！-Take On Me-</td>
+      <td>-1</td>
+      <td></td>
+      <td>-1</td>
+      <td>有丶垃圾</td>
+   </tr>
+   <tr>
+      <td></td>
+      <td>罪恶王冠</td>
+      <td>-1</td>
+      <td>-1</td>
+      <td>-2</td>
+      <td>有丶垃圾</td>
+   </tr>
+   <tr>
+      <td>2018.01</td>
+      <td>DARLING in the FRANXX</td>
+      <td>-2</td>
+      <td></td>
+      <td>-2</td>
+      <td>有丶垃圾</td>
+   </tr>
+   <tr>
+      <td></td>
+      <td>黃漫老師</td>
+      <td>-2</td>
+      <td></td>
+      <td>-2</td>
+      <td>有丶垃圾</td>
+   </tr>
+   <tr>
+      <td></td>
+      <td>最近,我的妹妹有點怪</td>
+      <td>-2</td>
+      <td></td>
+      <td>-2</td>
+      <td>有丶垃圾</td>
+   </tr>
+   <tr>
+      <td></td>
+      <td>我的妹妹不可能這麼可愛</td>
+      <td>-2</td>
+      <td></td>
+      <td>-2</td>
+      <td>有丶垃圾</td>
+   </tr>
+   <tr>
+      <td>2018.01</td>
+      <td>紫羅蘭永恆花園</td>
+      <td>-2</td>
+      <td></td>
+      <td>-2</td>
+      <td>有丶垃圾</td>
+   </tr>
+   <tr>
+      <td></td>
+      <td>我,要成为双马尾</td>
+      <td>-2</td>
+      <td></td>
+      <td>-2</td>
+      <td>有丶垃圾</td>
+   </tr>
+   <tr>
+      <td></td>
+      <td>约会大作战</td>
+      <td>-1</td>
+      <td>-1</td>
+      <td>-2</td>
+      <td>有丶垃圾</td>
+   </tr>
+   <tr>
+      <td></td>
+      <td>终将成为你</td>
+      <td>-2</td>
+      <td></td>
+      <td>-2</td>
+      <td>有丶垃圾</td>
+   </tr>
+   <tr>
+      <td>2017.07</td>
+      <td>Fate/Apocrypha</td>
+      <td>-2</td>
+      <td></td>
+      <td>-2</td>
+      <td>有丶垃圾</td>
+   </tr>
+   <tr>
+      <td>2018.01</td>
+      <td>POP TEAM EPIC</td>
+      <td>-3</td>
+      <td></td>
+      <td>-3</td>
+      <td>有丶垃圾</td>
+   </tr>
+   <tr>
+      <td></td>
+      <td>Charlotte 夏洛特</td>
+      <td>-1</td>
+      <td>-2</td>
+      <td>-3</td>
+      <td>有丶垃圾</td>
+   </tr>
+   <tr>
+      <td></td>
+      <td>地球防衛少年</td>
+      <td>-3</td>
+      <td></td>
+      <td>-3</td>
+      <td>有丶垃圾</td>
+   </tr>
+   <tr>
+      <td>2018.02</td>
+      <td>朝花夕誓 于离别之朝束起约定之花</td>
+      <td>-3</td>
+      <td></td>
+      <td>-3</td>
+      <td>有丶垃圾</td>
    </tr>
 </table>
