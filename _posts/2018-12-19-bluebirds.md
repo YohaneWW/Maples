@@ -11,10 +11,10 @@ On a Theme of Bluebirds —— 為鋼琴而作
 
 ## Date: 19 Dec, 2018
 
-![photo](/maples/assets/bluebirds/1.png)
+![photo](/maples/assets/Bluebirds/1.png)
 
-![photo](/maples/assets/bluebirds/2.png)
+![photo](/maples/assets/Bluebirds/2.png)
 
-![photo](/maples/assets/bluebirds/3.png)
+![photo](/maples/assets/Bluebirds/3.png)
 
-![photo](/maples/assets/bluebirds/4.png)
+![photo](/maples/assets/Bluebirds/4.png)

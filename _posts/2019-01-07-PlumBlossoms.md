@@ -11,6 +11,6 @@ categories: [Yohane's Works Collection]
 
 ## Date: 7 Jan, 2019
 
-![photo](/maples/assets/plum-Blossoms/1.png)
+![photo](/maples/assets/Plum-Blossoms/1.png)
 
-![photo](/maples/assets/plum-Blossoms/2.png)
+![photo](/maples/assets/Plum-Blossoms/2.png)
