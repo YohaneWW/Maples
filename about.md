@@ -2,6 +2,7 @@
 layout: page
 title: About
 ---
+![LOGO](/maples/assets/logo.png)
 
 # _Maples_
 
