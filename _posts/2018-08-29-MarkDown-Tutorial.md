@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 在无格式中探索格式--MarkDown 入门指南
+title: 在无格式中探索格式 -- MarkDown 入门指南
 date: 2018-08-29 22:56
 categories: [Tutorial]
 ---
