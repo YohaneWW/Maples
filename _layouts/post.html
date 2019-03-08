@@ -7,16 +7,18 @@ layout: default
     <h1 class="post-title">{{ page.title }}</h1>
     <p class="post-meta">
       {{ page.date | date: "%-d %b, %Y" }}
-      • "{{ page.categories }}"{% if page.author %}@{{ page.author }}{% else %}@{{ site.author.name }},
+      • "{{ page.categories }}"
+      {% if page.author %}@{{ page.author }}{% else %}@{{ site.author.name }}
       {% endif %}
-      Words:{{ page.content | number_of_words }}
       {% if page.meta %}
-      • {{ page.meta }}
+      {{ page.meta }}
       {% endif %}</p>
   </header>
 
   <article class="post-content">
     {{ content }}
 	</article>
-	
+  
+  <p class="post-meta">
+    Total Words: {{ page.content | number_of_words }}
 </div>
