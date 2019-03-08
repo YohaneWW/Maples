@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "八声甘州雨 Anime 狩猎榜"
-categories: AnimeCriticism
+title: 八声甘州雨 Anime 狩猎榜
+categories: [AnimeCriticism]
 ---
 > Being to the master with the criticism.
 

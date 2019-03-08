@@ -1,8 +1,8 @@
 ---
 layout: post
-title: "linux terminal command"
-date:   2019-2-2 21:14
-categories: Refers
+title: linux terminal command
+date: 2019-2-2 21:14
+categories: [Refers]
 ---
 
 Ctrl+r 实现快速检索使用过的历史命令。（r：retrieve）

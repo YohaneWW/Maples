@@ -1,8 +1,8 @@
 ---
 layout: post
-title: "和弦外音"
-date:   2018-11-08 22:21
-categories: MusicNotes
+title: 和弦外音
+date: 2018-11-08 22:21
+categories: [Music Notes]
 ---
 
 ## 延留音

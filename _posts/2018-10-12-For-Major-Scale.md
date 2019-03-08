@@ -1,8 +1,8 @@
 ---
 layout: post
-title: "討論與嘗試：為大調音階穩定性排序"
-date:   2018-10-12 22:57
-categories: MusicNotes
+title: 討論與嘗試：為大調音階穩定性排序
+date: 2018-10-12 22:57
+categories: [Music Notes]
 ---
 
 ＊全文係筆者腦補，其中概念為杜撰，並未得到任何有效理論支持，遂給出過程，有任何想法希望各位能貼出討論

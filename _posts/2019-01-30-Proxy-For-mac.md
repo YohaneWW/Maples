@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "設置 macOS Shell 代理"
-categories: macOSNotes
+title: 設置 macOS Shell 代理
+categories: [Development Notes]
 ---
 Set the proxy for macOS shell.
 

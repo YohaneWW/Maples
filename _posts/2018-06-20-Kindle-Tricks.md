@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  "Kindle Tricks"
+title:  Kindle Tricks
 date:   2018-06-20 11:23
-categories: Tricks
+categories: [Tricks]
 ---
 
 ## 開始...
