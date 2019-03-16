@@ -2,11 +2,8 @@
 layout: post
 title: iTunes 最佳實踐
 categories: [Tutorial]
+excerpt: iTunes Best Practices.
 ---
-iTunes Best Practices.
-
-----
-
 ## 一 Apple Music 會員
 
 **訂就完事兒了。**
@@ -23,7 +20,7 @@ _推薦使用 Apple Lossless 編碼。_
 
 ## 三 透過虛擬光驅模擬 CD 擷取
 
-- Exact Audio Copy
+- [Exact Audio Copy][EAC]
 - X Lossless Decoder (mac only)
 - DaemonTools（需付費）
 
@@ -41,8 +38,9 @@ _推薦使用 Apple Lossless 編碼。_
 
 ## 四 透過 XLD 進行擷取
 
-> What is this?
-> X Lossless Decoder(XLD) is a tool for Mac OS X that is able to decode/convert/play various 'lossless' audio files. The supported audio files can be split into some tracks with cue sheet when decoding. It works on Mac OS X 10.4 and later.
-> XLD is Universal Binary, so it runs natively on both Intel Macs and PPC Macs.
+[X Lossless Decoder Tutorial][XLD]
 
 _再次提醒：Apple Lossless 非常優秀，請務必使用它。_
+
+[EAC]: /maples/tutorial/2019/02/09/eac.html
+[XLD]: /maples/tutorial/2019/02/09/cuetools.html

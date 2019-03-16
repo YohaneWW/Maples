@@ -1,13 +1,9 @@
 ---
 layout: post
 title: Linux Terminal Command
-date: 2019-2-2 21:14
 categories: [Refers]
+excerpt: Useful Command of Linux.
 ---
-Useful Command of Linux.
-
-----
-
 **Ctrl+a：光标回到命令行首。 （a：ahead）**
 
 **Ctrl+e：光标回到命令行尾。 （e：end）**

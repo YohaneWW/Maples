@@ -2,10 +2,9 @@
 layout: post
 title: 八声甘州雨 Anime 狩猎榜
 categories: [Anime Criticism]
+excerpt: Being to the master with the criticism.
 ---
 ## Last Update： _Feb 7, 2019 at 16:18_
-
-> Being to the master with the criticism.
 
 ----
 

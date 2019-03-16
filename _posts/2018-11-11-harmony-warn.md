@@ -3,6 +3,7 @@ layout: post
 title: 和聲學實踐指示
 date: 2018-11-11 17:51
 categories: [Music Notes]
+excerpt: Harmony Warn
 ---
 
 - 最好不要在強拍上重複上一小節弱拍上的和弦。（但如果是從強拍開始的和弦，則可以跨越整個小節）

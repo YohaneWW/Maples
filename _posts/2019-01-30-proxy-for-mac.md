@@ -2,9 +2,9 @@
 layout: post
 title: 設置 macOS Shell 代理
 categories: [Development Notes]
+series: macOS Notes
+excerpt: Set the proxy for macOS shell.
 ---
-Set the proxy for macOS shell.
-
 ## cd 到根目录，查看所有文件（包括隐藏文件）
 
 	$ ls -al
@@ -24,12 +24,12 @@ Set the proxy for macOS shell.
 
 	$ source \~/.bash\_profile
 
-# 开启代理
+## 开启代理
 
 	$ setproxy    
 	HTTP Proxy on
 
-# 关闭代理
+## 关闭代理
 
 	$ unsetproxy  
 	HTTP Proxy off
