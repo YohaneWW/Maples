@@ -1,10 +1,9 @@
 ---
 layout: post
 title: 和弦外音
-date: 2018-11-08 22:21
 categories: [Music Notes]
+excerpt: Non Harmonic Notes
 ---
-
 ## 延留音
 
 出現在相對強位，它使在音高上與自己接近，並在一般情況下緊接著出現的和弦音延遲出現使之（上行下行）解決。

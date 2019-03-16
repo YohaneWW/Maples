@@ -11,14 +11,10 @@ layout: default
       {% endif %}
       • {% if page.series %}{{ page.series }}{% else %}{{ page.categories }}
       {% endif %}
-      | Total Words: {{ page.content | number_of_words }}
     </p>
   </header>
 
   <article class="post-content">
     {{ content }}
 	</article>
-  
-  <p class="post-meta">
-    Total: {{ page.content | number_of_words }}  Words
 </div>
