@@ -13,3 +13,7 @@ highlighter : rouge
 # Author settings
 author:
   name     : "Yohane"
+
+# Plugins
+plugins:
+  - jekyll-feed

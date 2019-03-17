@@ -44,9 +44,20 @@
 				<li>
 					<a href="{{ '/about' | prepend: site.baseurl | prepend: site.url }}">About</a>
 				</li>			
-			{% endif %}	
+			{% endif %}
+			<span class="title">
+				<li>
+					<a href="{{ '/feed.xml' | prepend: site.baseurl }}" title="RSS">
+						<img width="19px" height="19px" src="{{ '/images/rss.svg' | prepend: site.baseurl }}"/>
+					</a>
+				</li>
+			</span>
 		</div>
-		<div class="description"> ♫ 剣崎梨々花の<span id="headright">オーボエ練習曲</span> </div>
-		<div class="description2"> {{ site.description }} </div>
+		<div class="description">
+			♫ 剣崎梨々花の<span id="headright">オーボエ練習曲</span>
+		</div>
+		<div class="description2">
+			{{ site.description }}
+		</div>
 	</div>
 </header>

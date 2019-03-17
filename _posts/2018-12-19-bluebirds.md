@@ -1,6 +1,6 @@
 ---
 layout: post
-title: On a Theme of Bluebirds -- For Solo Piano
+title: On a Theme of Bluebirds –– For Solo Piano
 categories: [Yohane's Works Collection]
 excerpt: 青鳥動機變奏曲 —— 為鋼琴而作
 ---

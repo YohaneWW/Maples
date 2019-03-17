@@ -2,7 +2,7 @@
 layout: about
 title: About
 ---
-![LOGO](/maples/assets/logo.png)
+![LOGO](/maples/images/logo.png)
 
 # _Maples_
 
