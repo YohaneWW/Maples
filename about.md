@@ -1,5 +1,5 @@
 ---
-layout: about
+layout: page
 title: About
 ---
 ![LOGO](/maples/images/logo.png)

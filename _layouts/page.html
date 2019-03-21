@@ -1,14 +1,81 @@
----
-layout: default
----
-<div class="post">
+<!DOCTYPE html>
+<html>    
+{% include head.html %}
 
-  <header class="post-header">
-    <h1 class="post-title">{{ page.title }}</h1>
-  </header>
-  <br>
-  <article class="post-content">
-    {{ content }}
-  </article>
+  <body>
+    <header class="header">
+      <div class="header-container">
+        <div class="nav">
+          {% if page.path == "index.html" %}
+          <span class="title">
+            <li>
+              <a href="{{ '/index' | prepend: site.baseurl | prepend: site.url }}">home</a>
+            </li>
+          </span>			
+          {% else %}
+            <li>
+              <a href="{{ '/index' | prepend: site.baseurl | prepend: site.url }}">home</a>
+            </li>			
+          {% endif %}
+          {% if page.path == "archive.html" %}
+          <span class="title">
+            <li>
+              <a href="{{ '/archive' | prepend: site.baseurl | prepend: site.url }}">archive</a>
+            </li>
+          </span>			
+          {% else %}
+            <li>
+              <a href="{{ '/archive' | prepend: site.baseurl | prepend: site.url }}">archive</a>
+            </li>			
+          {% endif %}
+          {% if page.path == "category.html" %}
+          <span class="title">
+            <li>
+              <a href="{{ '/category' | prepend: site.baseurl | prepend: site.url }}">category</a>
+            </li>
+          </span>			
+          {% else %}
+            <li>
+              <a href="{{ '/category' | prepend: site.baseurl | prepend: site.url }}">category</a>
+            </li>			
+          {% endif %}
+          {% if page.path == "about.md" %}
+          <span class="title">
+            <li>
+              <a href="{{ '/about' | prepend: site.baseurl | prepend: site.url }}">About</a>
+            </li>
+          </span>			
+          {% else %}
+            <li>
+              <a href="{{ '/about' | prepend: site.baseurl | prepend: site.url }}">About</a>
+            </li>			
+          {% endif %}
+        </div>
+        <ul class="social-links">
+          <li>
+            <a href="{{ '/feed.xml' | prepend: site.baseurl }}" title="RSS">
+              <img width="19px" height="19px" src="{{ '/images/rss.svg' | prepend: site.baseurl }}"/>
+            </a>
+          </li>
+          <li>
+            <a href="https://t.me/yohane_ww" title="Telegram">
+              <img width="19px" height="19px" src="{{ '/images/tg.svg' | prepend: site.baseurl }}"/>
+            </a>
+          </li>
+        </ul>
+        <h1 class="maples-title">{{ page.title }}</h1>
+        <div class="description2"> {{ site.description }} </div>
+      </div>
+    </header>
+    <br />
+    <div class="page-content">
+      <div class="maples-content">
+        {{ content }}
+      </div>
+    </div>
+    
+    {% include footer.html %}
+    
+  </body>
 
-</div>
+</html>

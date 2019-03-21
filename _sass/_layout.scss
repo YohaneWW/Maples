@@ -8,6 +8,7 @@ html,body {
 .header {
     padding: 50px 20px 0px;
     background-color: #FCFAF2;
+    text-align: center;
 }
 
 .header-container {
@@ -20,8 +21,6 @@ html,body {
 	text-transform: uppercase;
     font-size: 16px;
     font-weight: 600;
-    font-family: inherit,sans-serif;
-    display:inline;
 }
 
 .nav li {
@@ -81,20 +80,18 @@ li {
 }
 
 .description {
-    font-family: inherit;
     font-weight: 600;
-    padding-top: 35px;
     font-size: 40px;
     line-height: 1.5em;
     color: #64363C;
 }
 
 .description2 {
-    font-family: inherit;
     font-size: 20px;
     font-weight: 400;
     line-height: 1.5em;
-    color: #B481BB
+    color: #B481BB;
+    font-family: Bradley Hand,Monaco, Andale Mono, Courier New, monospace;
 }
 
 .social-links {
@@ -128,8 +125,14 @@ li {
 .post-meta {
 	color: #666;
 	font-size: 12px;
-	margin-left: 0px;
+    margin-left: 0px;
+    text-align:center;
 }
+
+.post-title {
+    text-align:center;
+}
+
 .content {
 	margin-top: 20px;
 	color: #666;
@@ -159,13 +162,14 @@ li {
  */
 .well {
 	color: #000;
-	font-family: Monaco,"Courier New",monospace;
+	font-family: Bradley Hand,Monaco, Andale Mono, Courier New, monospace;
 }
 
 .well ul {
 	color: #AAA;
 	font-size: 14px;
-	list-style:none;
+    list-style:none;
+    font-family: $base-font-family;
 }
 
 .well ul a {

@@ -4,34 +4,34 @@
 			{% if page.path == "index.html" %}
 			<span class="title">
 				<li>
-					<a href="/maples/index.html">home</a>
+					<a href="{{ '/index' | prepend: site.baseurl | prepend: site.url }}">home</a>
 				</li>
 			</span>			
 			{% else %}
 				<li>
-					<a href="/maples/index.html">home</a>
+					<a href="{{ '/index' | prepend: site.baseurl | prepend: site.url }}">home</a>
 				</li>			
 			{% endif %}
 			{% if page.path == "archive.html" %}
 			<span class="title">
 				<li>
-					<a href="/maples/archive.html">archive</a>
+					<a href="{{ '/archive' | prepend: site.baseurl | prepend: site.url }}">archive</a>
 				</li>
 			</span>			
 			{% else %}
 				<li>
-					<a href="/maples/archive.html">archive</a>
+					<a href="{{ '/archive' | prepend: site.baseurl | prepend: site.url }}">archive</a>
 				</li>			
 			{% endif %}
 			{% if page.path == "category.html" %}
 			<span class="title">
 				<li>
-					<a href="/maples/category.html">category</a>
+					<a href="{{ '/category' | prepend: site.baseurl | prepend: site.url }}">category</a>
 				</li>
 			</span>			
 			{% else %}
 				<li>
-					<a href="/maples/category.html">category</a>
+					<a href="{{ '/category' | prepend: site.baseurl | prepend: site.url }}">category</a>
 				</li>			
 			{% endif %}
 			{% if page.path == "about.md" %}
@@ -45,14 +45,19 @@
 					<a href="{{ '/about' | prepend: site.baseurl | prepend: site.url }}">About</a>
 				</li>			
 			{% endif %}
-			<span class="title">
-				<li>
-					<a href="{{ '/feed.xml' | prepend: site.baseurl }}" title="RSS">
-						<img width="19px" height="19px" src="{{ '/images/rss.svg' | prepend: site.baseurl }}"/>
-					</a>
-				</li>
-			</span>
 		</div>
+		<ul class="social-links">
+			<li>
+				<a href="{{ '/feed.xml' | prepend: site.baseurl }}" title="RSS">
+					<img width="19px" height="19px" src="{{ '/images/rss.svg' | prepend: site.baseurl }}"/>
+				</a>
+			</li>
+			<li>
+				<a href="https://t.me/yohane_ww" title="Telegram">
+					<img width="19px" height="19px" src="{{ '/images/tg.svg' | prepend: site.baseurl }}"/>
+				</a>
+			</li>
+		</ul>		
 		<div class="description">
 			♫ 剣崎梨々花の<span id="headright">オーボエ練習曲</span>
 		</div>
