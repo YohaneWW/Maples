@@ -8,6 +8,6 @@ excerpt: 家鄉的紅梅花 —— 為男高音而作
 
 ## Date: 7 Jan, 2019
 
-![photo](/maples/assets/Plum-Blossoms/1.png)
+![photo](/assets/Plum-Blossoms/1.png)
 
-![photo](/maples/assets/Plum-Blossoms/2.png)
+![photo](/assets/Plum-Blossoms/2.png)

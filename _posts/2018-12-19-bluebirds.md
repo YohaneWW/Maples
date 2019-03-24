@@ -8,10 +8,10 @@ excerpt: 青鳥動機變奏曲 —— 為鋼琴而作
 
 ## Date: 19 Dec, 2018
 
-![photo](/maples/assets/Bluebirds/1.png)
+![photo](/assets/Bluebirds/1.png)
 
-![photo](/maples/assets/Bluebirds/2.png)
+![photo](/assets/Bluebirds/2.png)
 
-![photo](/maples/assets/Bluebirds/3.png)
+![photo](/assets/Bluebirds/3.png)
 
-![photo](/maples/assets/Bluebirds/4.png)
+![photo](/assets/Bluebirds/4.png)

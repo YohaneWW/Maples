@@ -2,7 +2,7 @@
 layout: page
 title: About
 ---
-![LOGO](/maples/images/logo.png)
+![LOGO](/images/logo.png)
 
 # _Maples_
 

@@ -13,7 +13,10 @@ Markdown是一种轻量级标记语言，其目的皆在 **纯文本** 中建立
 
 基于纯文本的 MarkDown 可在任何文本编辑器中编辑，甚至是 windows 自带的记事本或平常的纸质写作中！我的意思是单纯的使用 MarkDown 写作不需要任何特定的应用（它的通用后缀为 .md，任何纯文本档案将后缀改为 .md 便会被识别为 MarkDown 档案。而关于推荐的编辑器会在之后介绍），我们只需要记住少量的几个标记语言便可快速上手。
 
-[Markdown: Syntax][]
+[Markdown: Syntax][en]
+[MarkDown - 语法说明][cn]
+[MarkDown - 語法說明][tw]
+[CommonMark][]
 
 ---- 
 
@@ -49,4 +52,7 @@ For Win:
 在使用前请抛弃过去所见即所得的带格式文档的排版思路，可以将纯文本想象为一个连续不断的文本，而空格、TAB 制表符、Enter 换挡仅仅作为一个符号起提示作用，它本身不具有任何语义，而是我们规定它「你看到这个符号就表示提行了哟」，而编辑器则将其显示出来。
 所以无论是首行缩进，还是其余的排版需求，都在输出的时候进行渲染操作时再对其进行设置吧！写作的时候仅仅只需关注写作本身，这也是 MarkDown 优雅的地方之一。
 
-[Markdown: Syntax]: https://daringfireball.net/projects/markdown/syntax#link
+[en]: https://daringfireball.net/projects/markdown/syntax#link
+[cn]: https://markdown.cn
+[tw]: https://markdown.tw
+[CommonMark]: https://commonmark.org

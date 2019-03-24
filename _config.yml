@@ -3,8 +3,8 @@ title: ♫ 剣崎梨々花のオーボエ練習曲
 description: > # this means to ignore newlines until "baseurl:"
   ♪ ~ Inevitable swaying, accompany with maples.
   WhiteTiger Field, Someday in the raining.
-baseurl: "/maples" # the subpath of your site, e.g. /blog/
-url: https://yohaneww.github.io # the base hostname & protocol for your site
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: http://yohane.art # the base hostname & protocol for your site
 
 # Build settings
 markdown: kramdown
