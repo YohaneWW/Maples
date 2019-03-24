@@ -42,5 +42,5 @@ _推薦使用 Apple Lossless 編碼。_
 
 _再次提醒：Apple Lossless 非常優秀，請務必使用它。_
 
-[EAC]: /tutorial/2019/02/09/eac.html
-[XLD]: /tutorial/2019/02/09/cuetools.html
+[EAC]: {% post_url 2019-02-09-eac %}
+[XLD]: {% post_url 2019-02-09-xld %}
