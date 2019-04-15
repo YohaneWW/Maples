@@ -50,6 +50,17 @@
               <a href="{{ '/about' | prepend: site.baseurl | prepend: site.url }}">About</a>
             </li>			
           {% endif %}
+          {% if page.path == "complex.md" %}
+          <span class="title">
+            <li>
+              <a href="{{ '/complex' | prepend: site.baseurl | prepend: site.url }}">Complex</a>
+            </li>
+          </span>
+          {% else %}
+          <li>
+            <a href="{{ '/complex' | prepend: site.baseurl | prepend: site.url }}">Complex</a>
+          </li>			
+          {% endif %}
         </div>
         <ul class="social-links">
           <li>
