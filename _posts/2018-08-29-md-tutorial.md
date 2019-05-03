@@ -4,6 +4,9 @@ title: 在无格式中探索格式 —— MarkDown 入门指南
 categories: [Tutorial]
 excerpt: Markdown Tutorial.
 ---
+* Index
+{:toc}
+
 ## 那么什么是 MarkDown 以及为何要使用
 
 Markdown是一种轻量级标记语言，其目的皆在 **纯文本** 中建立一种方便使用的，易于阅读的格式。区别于带格式文本在不同环境下的显示不同，使用 **纯文本** 的 MarkDown 可以在任何条件下取得完全一致的效果（当然，依据渲染的不同输出会有不同）。

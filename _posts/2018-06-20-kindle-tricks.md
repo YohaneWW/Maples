@@ -4,6 +4,9 @@ title: Kindle Tricks
 categories: [Tricks]
 excerpt: Kindle Tricks
 ---
+* Index
+{:toc}
+
 ## 開始...
 
 使用 Amazon 帳號註冊你的設備，並注意添加「發送自 Kinlde 」郵箱白名單，瀏覽「管理我的內容和設備」看看設置是否得當。

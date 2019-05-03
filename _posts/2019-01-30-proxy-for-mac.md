@@ -5,6 +5,9 @@ categories: [Development Notes]
 series: macOS Notes
 excerpt: Set the proxy for macOS shell.
 ---
+* Index
+{:toc}
+
 ## cd 到根目录，查看所有文件（包括隐藏文件）
 
 {% highlight shell_session %}
@@ -21,10 +24,8 @@ $ touch .bash_profile
 
 使用 vim 编辑器打开 .bash\_profile 文件，添加以下代码。
 
-{% highlight shell_session %}
-alias setproxy="export http_proxy=http://127.0.0.1:1080; export https_proxy=$http_proxy; echo 'HTTP Proxy on';"
-alias unsetproxy="unset http_proxy; unset https_proxy; echo 'HTTP Proxy off';"
-{% endhighlight %}
+    alias setproxy="export http_proxy=http://127.0.0.1:1080; export https_proxy=$http_proxy; echo 'HTTP Proxy on';"
+    alias unsetproxy="unset http_proxy; unset https_proxy; echo 'HTTP Proxy off';"
 
 最后使用以下命令来让 .bash\_profile 文件立即生效，或者重启电脑。
 
@@ -36,12 +37,12 @@ $ source ~/.bash_profile
 
 {% highlight shell_session %}
 $ setproxy    
-HTTP Proxy on
+> HTTP Proxy on
 {% endhighlight %}
 
 ## 关闭代理
 
 {% highlight shell_session %}
 $ unsetproxy  
-HTTP Proxy off
+> HTTP Proxy off
 {% endhighlight %}

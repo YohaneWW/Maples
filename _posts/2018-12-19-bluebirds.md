@@ -4,9 +4,8 @@ title: On a Theme of Bluebirds –– For Solo Piano
 categories: [Yohane's Works Collection]
 excerpt: 青鳥動機變奏曲 —— 為鋼琴而作
 ---
-## Composer: Yohane
-
-## Date: 19 Dec, 2018
+<li style="text-align: center;font-size: 25px;color: #724832;font-weight: bold">19 Dec, 2018</li>
+<li style="text-align: center;font-size: 25px;color: #724832;font-weight: bold;padding: 25px">Composer: Yohane</li>
 
 ![photo](/assets/Bluebirds/1.png)
 

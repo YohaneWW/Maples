@@ -14,6 +14,12 @@ highlighter : rouge
 author:
   name     : "Yohane"
 
+# paginate
+paginate: 6
+paginate_path: "page:num"
+
 # Plugins
 plugins:
   - jekyll-feed
+  - jekyll-paginate
+  
