@@ -14,7 +14,7 @@ excerpt: Set the proxy for macOS shell.
 $ ls -al
 {% endhighlight %}
 
-找到 .bash\_profile 文件，如果没有（macOS 默认是没有这个文件的），则创建一个。
+找到 `.bash_profile` 文件，如果没有（macOS 默认是没有这个文件的），则创建一个。
 
 ## 创建 .bash\_profile 文件
 
@@ -22,12 +22,12 @@ $ ls -al
 $ touch .bash_profile
 {% endhighlight %}
 
-使用 vim 编辑器打开 .bash\_profile 文件，添加以下代码。
+使用 vim 编辑器打开 `.bash_profile` 文件，添加以下代码。
 
-    alias setproxy="export http_proxy=http://127.0.0.1:1080; export https_proxy=$http_proxy; echo 'HTTP Proxy on';"
-    alias unsetproxy="unset http_proxy; unset https_proxy; echo 'HTTP Proxy off';"
+	alias setproxy="export http_proxy=http://127.0.0.1:1080; export https_proxy=$http_proxy; echo 'HTTP Proxy on';"
+	alias unsetproxy="unset http_proxy; unset https_proxy; echo 'HTTP Proxy off';"
 
-最后使用以下命令来让 .bash\_profile 文件立即生效，或者重启电脑。
+最后使用以下命令来让 `.bash_profile` 文件立即生效，或者重启电脑。
 
 {% highlight shell_session %}
 $ source ~/.bash_profile
