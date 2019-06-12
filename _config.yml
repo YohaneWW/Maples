@@ -15,7 +15,7 @@ author:
   name     : "Yohane"
 
 # paginate
-paginate: 6
+paginate: 9
 paginate_path: "page:num"
 
 # Plugins
