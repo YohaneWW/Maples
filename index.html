@@ -3,6 +3,7 @@ layout: default
 ---
 <div class="home">
   <ul class="post-list">
+    <!-- This loops through the paginated posts -->
     {% for post in paginator.posts %}
       <li>
         <br>
@@ -20,6 +21,7 @@ layout: default
   </ul>
 </div>
 
+<!-- Pagination links -->
 {% if paginator.total_pages > 1 %}
 <div class="pagination">
   {% if paginator.previous_page %}
