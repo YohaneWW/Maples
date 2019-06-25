@@ -10,7 +10,7 @@ excerpt: File shares on Linux.
 
 ## Samba
 
-有[報導](https://www.v2ex.com/t/352813)稱 `smb` 协议在 macOS 下有效能问题，建议使用 `WebDAV` `nfs` `afp` `ftp` 替代。（注：實測在 macOS 下 WebDAV 的上傳仍舊存在效能問題，如果沒有通用性需求建議使用 afp 協議。）
+有[報導](https://www.v2ex.com/t/352813)稱 `smb` 协议在 macOS 下有效能问题，建议使用 `WebDAV` `nfs` `afp` `ftp` 替代。（注：實測在 macOS 下 WebDAV 的上傳仍舊存在效能問題，如果沒有通用性需求建議使用 `afp` 協議。）
 
 {% highlight shell_session %}
 # chmod 770 -R /mnt #使掛載目錄具有正確的權限
