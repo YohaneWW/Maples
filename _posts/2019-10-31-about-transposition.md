@@ -2,7 +2,7 @@
 layout: post
 title: 關於移調的思考方法
 categories: [Music Notes]
-excerpt: think about transpositon.
+excerpt: Think about transpositon.
 ---
 * Index
 {:toc}

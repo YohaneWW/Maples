@@ -4,7 +4,7 @@ title: 八声甘州雨 Anime 狩猎榜
 categories: [Anime Criticism]
 excerpt: Being to the master with the criticism.
 ---
-<li style="text-align: center;font-size: 20px;color: #5DAC81;font-weight: bold;padding: 20px">Last Update： <span style="font-style:italic">Jul 16, 2019 at 10:53</span></li>
+<li style="text-align: center;font-size: 20px;color: #5DAC81;font-weight: bold;padding: 20px">Last Update： <span style="font-style:italic">Nov 15, 2019</span></li>
 
 <table>
     <caption>八声甘州雨 Anime 狩猎榜</caption>
@@ -25,7 +25,14 @@ excerpt: Being to the master with the criticism.
       <td></td>
       <td>0</td>
       <td>有丶一般</td>
+   </tr>
+   <tr>
+      <td>1982.10</td>
       <td></td>
+      <td>超时空要塞 Macross</td>
+      <td></td>
+      <td>0</td>
+      <td>有丶一般</td>
    </tr>
    <tr>
       <td>1986.02</td>
@@ -34,7 +41,6 @@ excerpt: Being to the master with the criticism.
       <td></td>
       <td>0</td>
       <td>有丶一般</td>
-      <td></td>
    </tr>
    <tr>
       <td>1995.10</td>
@@ -43,7 +49,6 @@ excerpt: Being to the master with the criticism.
       <td>3</td>
       <td>3</td>
       <td>好评如潮</td>
-      <td></td>
    </tr>
    <tr>
       <td>1997.04</td>
@@ -52,7 +57,6 @@ excerpt: Being to the master with the criticism.
       <td>2</td>
       <td>2</td>
       <td>值得一看</td>
-      <td></td>
    </tr>
    <tr>
       <td>1997.07</td>
@@ -61,7 +65,6 @@ excerpt: Being to the master with the criticism.
       <td>3</td>
       <td>3</td>
       <td>好评如潮</td>
-      <td></td>
    </tr>
    <tr>
       <td>1998.04</td>
@@ -70,7 +73,6 @@ excerpt: Being to the master with the criticism.
       <td>2</td>
       <td>2</td>
       <td>值得一看</td>
-      <td></td>
    </tr>
    <tr>
       <td>1998.04</td>
@@ -79,7 +81,6 @@ excerpt: Being to the master with the criticism.
       <td></td>
       <td>0</td>
       <td>有丶一般</td>
-      <td></td>
    </tr>
    <tr>
       <td>2000.04</td>
@@ -88,7 +89,6 @@ excerpt: Being to the master with the criticism.
       <td>3</td>
       <td>3</td>
       <td>好评如潮</td>
-      <td></td>
    </tr>
    <tr>
       <td>2001.02</td>
@@ -97,7 +97,6 @@ excerpt: Being to the master with the criticism.
       <td>1</td>
       <td>1</td>
       <td>值得一看</td>
-      <td></td>
    </tr>
    <tr>
       <td>2001.04</td>
@@ -106,7 +105,6 @@ excerpt: Being to the master with the criticism.
       <td>0</td>
       <td>0</td>
       <td>有丶一般</td>
-      <td></td>
    </tr>
    <tr>
       <td>2001.05</td>
@@ -115,7 +113,6 @@ excerpt: Being to the master with the criticism.
       <td>1</td>
       <td>1</td>
       <td>值得一看</td>
-      <td></td>
    </tr>
    <tr>
       <td>2001.07</td>
@@ -124,7 +121,6 @@ excerpt: Being to the master with the criticism.
       <td>2</td>
       <td>2</td>
       <td>值得一看</td>
-      <td></td>
    </tr>
    <tr>
       <td>2002.01</td>
@@ -133,7 +129,6 @@ excerpt: Being to the master with the criticism.
       <td></td>
       <td>0</td>
       <td>有丶一般</td>
-      <td></td>
    </tr>
    <tr>
       <td>2002.02</td>
@@ -142,7 +137,6 @@ excerpt: Being to the master with the criticism.
       <td>2</td>
       <td>2</td>
       <td>值得一看</td>
-      <td></td>
    </tr>
    <tr>
       <td>2002.08</td>
@@ -151,7 +145,6 @@ excerpt: Being to the master with the criticism.
       <td>2</td>
       <td>2</td>
       <td>值得一看</td>
-      <td></td>
    </tr>
    <tr>
       <td>2002.09</td>
@@ -160,7 +153,6 @@ excerpt: Being to the master with the criticism.
       <td>1</td>
       <td>1</td>
       <td>值得一看</td>
-      <td></td>
    </tr>
    <tr>
       <td>2002.10</td>
@@ -169,7 +161,6 @@ excerpt: Being to the master with the criticism.
       <td>3</td>
       <td>3</td>
       <td>好评如潮</td>
-      <td></td>
    </tr>
    <tr>
       <td>2002.10</td>
@@ -178,7 +169,6 @@ excerpt: Being to the master with the criticism.
       <td>2</td>
       <td>2</td>
       <td>值得一看</td>
-      <td></td>
    </tr>
    <tr>
       <td>2003.10</td>
@@ -187,7 +177,6 @@ excerpt: Being to the master with the criticism.
       <td>1</td>
       <td>1</td>
       <td>值得一看</td>
-      <td></td>
    </tr>
    <tr>
       <td>2004.05</td>
@@ -196,7 +185,6 @@ excerpt: Being to the master with the criticism.
       <td>1</td>
       <td>1</td>
       <td>值得一看</td>
-      <td></td>
    </tr>
    <tr>
       <td>2004.05</td>
@@ -205,7 +193,6 @@ excerpt: Being to the master with the criticism.
       <td></td>
       <td>0</td>
       <td>有丶一般</td>
-      <td></td>
    </tr>
    <tr>
       <td>2004.07</td>
@@ -214,7 +201,6 @@ excerpt: Being to the master with the criticism.
       <td>1</td>
       <td>1</td>
       <td>值得一看</td>
-      <td></td>
    </tr>
    <tr>
       <td>2004.10</td>
@@ -223,16 +209,14 @@ excerpt: Being to the master with the criticism.
       <td>3</td>
       <td>3</td>
       <td>好评如潮</td>
-      <td></td>
    </tr>
    <tr>
       <td>2004.11</td>
-      <td></td>
+      <td>√</td>
       <td>云之彼端，约定的地方</td>
-      <td></td>
-      <td>0</td>
-      <td>有丶一般</td>
-      <td></td>
+      <td>1</td>
+      <td>1</td>
+      <td>值得一看</td>
    </tr>
    <tr>
       <td>2005.01</td>
@@ -241,7 +225,6 @@ excerpt: Being to the master with the criticism.
       <td>0</td>
       <td>0</td>
       <td>有丶一般</td>
-      <td></td>
    </tr>
    <tr>
       <td>2005.03</td>
@@ -250,7 +233,6 @@ excerpt: Being to the master with the criticism.
       <td>1</td>
       <td>1</td>
       <td>值得一看</td>
-      <td></td>
    </tr>
    <tr>
       <td>2005.04</td>
@@ -259,7 +241,6 @@ excerpt: Being to the master with the criticism.
       <td>2</td>
       <td>2</td>
       <td>值得一看</td>
-      <td></td>
    </tr>
    <tr>
       <td>2005.04</td>
@@ -268,7 +249,6 @@ excerpt: Being to the master with the criticism.
       <td></td>
       <td>0</td>
       <td>有丶一般</td>
-      <td></td>
    </tr>
    <tr>
       <td>2005.07</td>
@@ -277,7 +257,6 @@ excerpt: Being to the master with the criticism.
       <td>2</td>
       <td>2</td>
       <td>值得一看</td>
-      <td></td>
    </tr>
    <tr>
       <td>2005.07</td>
@@ -286,7 +265,6 @@ excerpt: Being to the master with the criticism.
       <td>0</td>
       <td>0</td>
       <td>有丶一般</td>
-      <td></td>
    </tr>
    <tr>
       <td>2005.08</td>
@@ -295,7 +273,6 @@ excerpt: Being to the master with the criticism.
       <td>0</td>
       <td>0</td>
       <td>有丶一般</td>
-      <td></td>
    </tr>
    <tr>
       <td>2006.04</td>
@@ -304,7 +281,6 @@ excerpt: Being to the master with the criticism.
       <td>2</td>
       <td>2</td>
       <td>值得一看</td>
-      <td></td>
    </tr>
    <tr>
       <td>2006.04</td>
@@ -313,7 +289,6 @@ excerpt: Being to the master with the criticism.
       <td>2</td>
       <td>2</td>
       <td>值得一看</td>
-      <td></td>
    </tr>
    <tr>
       <td>2006.04</td>
@@ -322,7 +297,6 @@ excerpt: Being to the master with the criticism.
       <td>2</td>
       <td>2</td>
       <td>值得一看</td>
-      <td></td>
    </tr>
    <tr>
       <td>2006.04</td>
@@ -331,7 +305,6 @@ excerpt: Being to the master with the criticism.
       <td>2</td>
       <td>2</td>
       <td>值得一看</td>
-      <td></td>
    </tr>
    <tr>
       <td>2006.04</td>
@@ -340,7 +313,6 @@ excerpt: Being to the master with the criticism.
       <td>2</td>
       <td>2</td>
       <td>值得一看</td>
-      <td></td>
    </tr>
    <tr>
       <td>2006.04</td>
@@ -349,7 +321,6 @@ excerpt: Being to the master with the criticism.
       <td></td>
       <td>0</td>
       <td>有丶一般</td>
-      <td></td>
    </tr>
    <tr>
       <td>2006.10</td>
@@ -358,7 +329,6 @@ excerpt: Being to the master with the criticism.
       <td>2</td>
       <td>2</td>
       <td>值得一看</td>
-      <td></td>
    </tr>
    <tr>
       <td>2006.10</td>
@@ -367,7 +337,6 @@ excerpt: Being to the master with the criticism.
       <td>1</td>
       <td>1</td>
       <td>值得一看</td>
-      <td></td>
    </tr>
    <tr>
       <td>2006.10</td>
@@ -376,7 +345,6 @@ excerpt: Being to the master with the criticism.
       <td></td>
       <td>0</td>
       <td>有丶一般</td>
-      <td></td>
    </tr>
    <tr>
       <td>2006.11</td>
@@ -385,16 +353,14 @@ excerpt: Being to the master with the criticism.
       <td>2</td>
       <td>2</td>
       <td>值得一看</td>
-      <td></td>
    </tr>
    <tr>
       <td>2007.01</td>
-      <td></td>
+      <td>√</td>
       <td>交响情人梦</td>
-      <td></td>
-      <td>0</td>
-      <td>有丶一般</td>
-      <td></td>
+      <td>2</td>
+      <td>2</td>
+      <td>值得一看</td>
    </tr>
    <tr>
       <td>2007.03</td>
@@ -403,7 +369,14 @@ excerpt: Being to the master with the criticism.
       <td>3</td>
       <td>3</td>
       <td>好评如潮</td>
-      <td></td>
+   </tr>
+   <tr>
+      <td>2007.04</td>
+      <td>√</td>
+      <td>DARKER THAN BLACK -黒の契約者-</td>
+      <td>2</td>
+      <td>2</td>
+      <td>值得一看</td>
    </tr>
    <tr>
       <td>2007.04</td>
@@ -412,7 +385,6 @@ excerpt: Being to the master with the criticism.
       <td>1</td>
       <td>1</td>
       <td>值得一看</td>
-      <td></td>
    </tr>
    <tr>
       <td>2007.04</td>
@@ -421,7 +393,6 @@ excerpt: Being to the master with the criticism.
       <td>1</td>
       <td>1</td>
       <td>值得一看</td>
-      <td></td>
    </tr>
    <tr>
       <td>2007.04</td>
@@ -430,7 +401,6 @@ excerpt: Being to the master with the criticism.
       <td>-3</td>
       <td>-3</td>
       <td>非常垃圾</td>
-      <td></td>
    </tr>
    <tr>
       <td>2007.07</td>
@@ -439,7 +409,6 @@ excerpt: Being to the master with the criticism.
       <td>2</td>
       <td>2</td>
       <td>值得一看</td>
-      <td></td>
    </tr>
    <tr>
       <td>2007.07</td>
@@ -448,7 +417,6 @@ excerpt: Being to the master with the criticism.
       <td>2</td>
       <td>2</td>
       <td>值得一看</td>
-      <td></td>
    </tr>
    <tr>
       <td>2007.07</td>
@@ -457,7 +425,6 @@ excerpt: Being to the master with the criticism.
       <td>2</td>
       <td>2</td>
       <td>值得一看</td>
-      <td></td>
    </tr>
    <tr>
       <td>2007.07</td>
@@ -466,7 +433,6 @@ excerpt: Being to the master with the criticism.
       <td>2</td>
       <td>2</td>
       <td>值得一看</td>
-      <td></td>
    </tr>
    <tr>
       <td>2007.08</td>
@@ -475,7 +441,6 @@ excerpt: Being to the master with the criticism.
       <td>1</td>
       <td>1</td>
       <td>值得一看</td>
-      <td></td>
    </tr>
    <tr>
       <td>2007.10</td>
@@ -484,7 +449,6 @@ excerpt: Being to the master with the criticism.
       <td>2</td>
       <td>2</td>
       <td>值得一看</td>
-      <td>極具風格的演出、漂亮的美術、童話般的氛圍</td>
    </tr>
    <tr>
       <td>2007.10</td>
@@ -493,7 +457,6 @@ excerpt: Being to the master with the criticism.
       <td>1</td>
       <td>1</td>
       <td>值得一看</td>
-      <td></td>
    </tr>
    <tr>
       <td>2007.12</td>
@@ -502,7 +465,6 @@ excerpt: Being to the master with the criticism.
       <td>2</td>
       <td>2</td>
       <td>值得一看</td>
-      <td></td>
    </tr>
    <tr>
       <td>2007.12</td>
@@ -511,7 +473,6 @@ excerpt: Being to the master with the criticism.
       <td>2</td>
       <td>2</td>
       <td>值得一看</td>
-      <td></td>
    </tr>
    <tr>
       <td>2008.01</td>
@@ -520,7 +481,6 @@ excerpt: Being to the master with the criticism.
       <td>2</td>
       <td>2</td>
       <td>值得一看</td>
-      <td></td>
    </tr>
    <tr>
       <td>2008.01</td>
@@ -529,16 +489,6 @@ excerpt: Being to the master with the criticism.
       <td>1</td>
       <td>1</td>
       <td>值得一看</td>
-      <td></td>
-   </tr>
-   <tr>
-      <td>2008.01</td>
-      <td></td>
-      <td>狼与香辛料</td>
-      <td></td>
-      <td>0</td>
-      <td>有丶一般</td>
-      <td></td>
    </tr>
    <tr>
       <td>2008.01</td>
@@ -547,7 +497,14 @@ excerpt: Being to the master with the criticism.
       <td>1</td>
       <td>1</td>
       <td>值得一看</td>
+   </tr>
+   <tr>
+      <td>2008.01</td>
       <td></td>
+      <td>狼与香辛料</td>
+      <td></td>
+      <td>0</td>
+      <td>有丶一般</td>
    </tr>
    <tr>
       <td>2008.05</td>
@@ -556,7 +513,6 @@ excerpt: Being to the master with the criticism.
       <td>2</td>
       <td>2</td>
       <td>值得一看</td>
-      <td></td>
    </tr>
    <tr>
       <td>2008.07</td>
@@ -565,7 +521,6 @@ excerpt: Being to the master with the criticism.
       <td>1</td>
       <td>1</td>
       <td>值得一看</td>
-      <td></td>
    </tr>
    <tr>
       <td>2008.08</td>
@@ -574,7 +529,6 @@ excerpt: Being to the master with the criticism.
       <td>3</td>
       <td>3</td>
       <td>好评如潮</td>
-      <td></td>
    </tr>
    <tr>
       <td>2008.10</td>
@@ -583,7 +537,6 @@ excerpt: Being to the master with the criticism.
       <td>3</td>
       <td>3</td>
       <td>好评如潮</td>
-      <td></td>
    </tr>
    <tr>
       <td>2008.10</td>
@@ -592,7 +545,6 @@ excerpt: Being to the master with the criticism.
       <td>2</td>
       <td>2</td>
       <td>值得一看</td>
-      <td>球</td>
    </tr>
    <tr>
       <td>2008.10</td>
@@ -601,7 +553,6 @@ excerpt: Being to the master with the criticism.
       <td>1</td>
       <td>1</td>
       <td>值得一看</td>
-      <td></td>
    </tr>
    <tr>
       <td>2008.10</td>
@@ -610,7 +561,6 @@ excerpt: Being to the master with the criticism.
       <td>1</td>
       <td>1</td>
       <td>值得一看</td>
-      <td></td>
    </tr>
    <tr>
       <td>2008.10</td>
@@ -619,7 +569,6 @@ excerpt: Being to the master with the criticism.
       <td>0</td>
       <td>0</td>
       <td>有丶一般</td>
-      <td></td>
    </tr>
    <tr>
       <td>2008.12</td>
@@ -628,16 +577,14 @@ excerpt: Being to the master with the criticism.
       <td>0</td>
       <td>0</td>
       <td>有丶一般</td>
-      <td></td>
    </tr>
    <tr>
       <td>2009.01</td>
-      <td>√</td>
+      <td></td>
       <td>白色相薄</td>
       <td></td>
       <td>0</td>
       <td>有丶一般</td>
-      <td></td>
    </tr>
    <tr>
       <td>2009.04</td>
@@ -646,7 +593,6 @@ excerpt: Being to the master with the criticism.
       <td>2</td>
       <td>2</td>
       <td>值得一看</td>
-      <td></td>
    </tr>
    <tr>
       <td>2009.04</td>
@@ -655,7 +601,6 @@ excerpt: Being to the master with the criticism.
       <td>1</td>
       <td>1</td>
       <td>值得一看</td>
-      <td></td>
    </tr>
    <tr>
       <td>2009.04</td>
@@ -664,7 +609,6 @@ excerpt: Being to the master with the criticism.
       <td>0</td>
       <td>0</td>
       <td>有丶一般</td>
-      <td></td>
    </tr>
    <tr>
       <td>2009.05</td>
@@ -673,7 +617,6 @@ excerpt: Being to the master with the criticism.
       <td>0</td>
       <td>0</td>
       <td>有丶一般</td>
-      <td></td>
    </tr>
    <tr>
       <td>2009.07</td>
@@ -682,7 +625,6 @@ excerpt: Being to the master with the criticism.
       <td>2</td>
       <td>2</td>
       <td>值得一看</td>
-      <td></td>
    </tr>
    <tr>
       <td>2009.07</td>
@@ -691,7 +633,6 @@ excerpt: Being to the master with the criticism.
       <td>1</td>
       <td>1</td>
       <td>值得一看</td>
-      <td></td>
    </tr>
    <tr>
       <td>2009.07</td>
@@ -700,7 +641,6 @@ excerpt: Being to the master with the criticism.
       <td></td>
       <td>0</td>
       <td>有丶一般</td>
-      <td></td>
    </tr>
    <tr>
       <td>2009.07</td>
@@ -709,7 +649,6 @@ excerpt: Being to the master with the criticism.
       <td>-1</td>
       <td>-1</td>
       <td>有丶垃圾</td>
-      <td></td>
    </tr>
    <tr>
       <td>2009.08</td>
@@ -718,7 +657,6 @@ excerpt: Being to the master with the criticism.
       <td>2</td>
       <td>2</td>
       <td>值得一看</td>
-      <td></td>
    </tr>
    <tr>
       <td>2009.10</td>
@@ -727,7 +665,14 @@ excerpt: Being to the master with the criticism.
       <td>1</td>
       <td>1</td>
       <td>值得一看</td>
-      <td></td>
+   </tr>
+   <tr>
+      <td>2009.10</td>
+      <td>√</td>
+      <td>DARKER THAN BLACK -流星の双子-</td>
+      <td>1</td>
+      <td>1</td>
+      <td>值得一看</td>
    </tr>
    <tr>
       <td>2009.10</td>
@@ -736,7 +681,14 @@ excerpt: Being to the master with the criticism.
       <td>-1</td>
       <td>-1</td>
       <td>有丶垃圾</td>
-      <td></td>
+   </tr>
+   <tr>
+      <td>2009.12</td>
+      <td>√</td>
+      <td>DARKER THAN BLACK -黒の契約者- OVA</td>
+      <td>2</td>
+      <td>2</td>
+      <td>值得一看</td>
    </tr>
    <tr>
       <td>2010.01</td>
@@ -745,7 +697,6 @@ excerpt: Being to the master with the criticism.
       <td>1</td>
       <td>1</td>
       <td>值得一看</td>
-      <td></td>
    </tr>
    <tr>
       <td>2010.01</td>
@@ -754,16 +705,14 @@ excerpt: Being to the master with the criticism.
       <td></td>
       <td>0</td>
       <td>有丶一般</td>
-      <td></td>
    </tr>
    <tr>
       <td>2010.01</td>
-      <td></td>
+      <td>√</td>
       <td>交响情人梦Finale</td>
-      <td></td>
+      <td>0</td>
       <td>0</td>
       <td>有丶一般</td>
-      <td></td>
    </tr>
    <tr>
       <td>2010.02</td>
@@ -772,7 +721,6 @@ excerpt: Being to the master with the criticism.
       <td>2</td>
       <td>2</td>
       <td>值得一看</td>
-      <td></td>
    </tr>
    <tr>
       <td>2010.04</td>
@@ -781,7 +729,6 @@ excerpt: Being to the master with the criticism.
       <td>2</td>
       <td>2</td>
       <td>值得一看</td>
-      <td></td>
    </tr>
    <tr>
       <td>2010.04</td>
@@ -790,7 +737,6 @@ excerpt: Being to the master with the criticism.
       <td>0</td>
       <td>0</td>
       <td>有丶一般</td>
-      <td></td>
    </tr>
    <tr>
       <td>2010.04</td>
@@ -799,7 +745,22 @@ excerpt: Being to the master with the criticism.
       <td>-1</td>
       <td>-1</td>
       <td>有丶垃圾</td>
-      <td></td>
+   </tr>
+   <tr>
+      <td>2010.05</td>
+      <td>√</td>
+      <td>文學少女</td>
+      <td>0</td>
+      <td>0</td>
+      <td>有丶一般</td>
+   </tr>
+   <tr>
+      <td>2010.05</td>
+      <td>√</td>
+      <td>文學少女 夢見る少女の前奏曲</td>
+      <td>0</td>
+      <td>0</td>
+      <td>有丶一般</td>
    </tr>
    <tr>
       <td>2010.07</td>
@@ -808,7 +769,6 @@ excerpt: Being to the master with the criticism.
       <td>1</td>
       <td>1</td>
       <td>值得一看</td>
-      <td></td>
    </tr>
    <tr>
       <td>2010.10</td>
@@ -817,7 +777,6 @@ excerpt: Being to the master with the criticism.
       <td>2</td>
       <td>2</td>
       <td>值得一看</td>
-      <td></td>
    </tr>
    <tr>
       <td>2010.10</td>
@@ -826,7 +785,6 @@ excerpt: Being to the master with the criticism.
       <td>2</td>
       <td>2</td>
       <td>值得一看</td>
-      <td></td>
    </tr>
    <tr>
       <td>2010.10</td>
@@ -835,7 +793,6 @@ excerpt: Being to the master with the criticism.
       <td>1</td>
       <td>1</td>
       <td>值得一看</td>
-      <td></td>
    </tr>
    <tr>
       <td>2010.10</td>
@@ -844,7 +801,6 @@ excerpt: Being to the master with the criticism.
       <td>1</td>
       <td>1</td>
       <td>值得一看</td>
-      <td></td>
    </tr>
    <tr>
       <td>2010.10</td>
@@ -853,7 +809,6 @@ excerpt: Being to the master with the criticism.
       <td>-2</td>
       <td>-2</td>
       <td>非常垃圾</td>
-      <td></td>
    </tr>
    <tr>
       <td>2011.01</td>
@@ -862,7 +817,6 @@ excerpt: Being to the master with the criticism.
       <td>1</td>
       <td>1</td>
       <td>值得一看</td>
-      <td></td>
    </tr>
    <tr>
       <td>2011.02</td>
@@ -871,7 +825,6 @@ excerpt: Being to the master with the criticism.
       <td>2</td>
       <td>2</td>
       <td>值得一看</td>
-      <td></td>
    </tr>
    <tr>
       <td>2011.04</td>
@@ -880,7 +833,6 @@ excerpt: Being to the master with the criticism.
       <td>1</td>
       <td>1</td>
       <td>值得一看</td>
-      <td></td>
    </tr>
    <tr>
       <td>2011.04</td>
@@ -889,16 +841,6 @@ excerpt: Being to the master with the criticism.
       <td>1</td>
       <td>1</td>
       <td>值得一看</td>
-      <td></td>
-   </tr>
-   <tr>
-      <td>2011.04</td>
-      <td></td>
-      <td>花開伊呂波</td>
-      <td></td>
-      <td>0</td>
-      <td>有丶一般</td>
-      <td></td>
    </tr>
    <tr>
       <td>2011.04</td>
@@ -907,7 +849,6 @@ excerpt: Being to the master with the criticism.
       <td>-1</td>
       <td>-1</td>
       <td>有丶垃圾</td>
-      <td></td>
    </tr>
    <tr>
       <td>2011.07</td>
@@ -916,7 +857,6 @@ excerpt: Being to the master with the criticism.
       <td>2</td>
       <td>2</td>
       <td>值得一看</td>
-      <td></td>
    </tr>
    <tr>
       <td>2011.07</td>
@@ -925,7 +865,6 @@ excerpt: Being to the master with the criticism.
       <td>1</td>
       <td>1</td>
       <td>值得一看</td>
-      <td></td>
    </tr>
    <tr>
       <td>2011.09</td>
@@ -934,7 +873,6 @@ excerpt: Being to the master with the criticism.
       <td>1</td>
       <td>1</td>
       <td>值得一看</td>
-      <td></td>
    </tr>
    <tr>
       <td>2011.10</td>
@@ -943,7 +881,6 @@ excerpt: Being to the master with the criticism.
       <td>1</td>
       <td>1</td>
       <td>值得一看</td>
-      <td></td>
    </tr>
    <tr>
       <td>2011.10</td>
@@ -952,7 +889,6 @@ excerpt: Being to the master with the criticism.
       <td>-1</td>
       <td>-1</td>
       <td>有丶垃圾</td>
-      <td></td>
    </tr>
    <tr>
       <td>2011.10</td>
@@ -961,7 +897,6 @@ excerpt: Being to the master with the criticism.
       <td>-2</td>
       <td>-2</td>
       <td>非常垃圾</td>
-      <td></td>
    </tr>
    <tr>
       <td>2012.01</td>
@@ -970,7 +905,6 @@ excerpt: Being to the master with the criticism.
       <td>2</td>
       <td>2</td>
       <td>值得一看</td>
-      <td></td>
    </tr>
    <tr>
       <td>2012.01</td>
@@ -979,7 +913,6 @@ excerpt: Being to the master with the criticism.
       <td>-1</td>
       <td>-1</td>
       <td>有丶垃圾</td>
-      <td></td>
    </tr>
    <tr>
       <td>2012.04</td>
@@ -988,7 +921,6 @@ excerpt: Being to the master with the criticism.
       <td>1</td>
       <td>1</td>
       <td>值得一看</td>
-      <td></td>
    </tr>
    <tr>
       <td>2012.07</td>
@@ -997,7 +929,6 @@ excerpt: Being to the master with the criticism.
       <td>0</td>
       <td>0</td>
       <td>有丶一般</td>
-      <td></td>
    </tr>
    <tr>
       <td>2012.07</td>
@@ -1006,7 +937,6 @@ excerpt: Being to the master with the criticism.
       <td>0</td>
       <td>0</td>
       <td>有丶一般</td>
-      <td></td>
    </tr>
    <tr>
       <td>2012.07</td>
@@ -1015,16 +945,14 @@ excerpt: Being to the master with the criticism.
       <td>0</td>
       <td>0</td>
       <td>有丶一般</td>
-      <td></td>
    </tr>
    <tr>
       <td>2012.08</td>
-      <td></td>
+      <td>√</td>
       <td>京骚戏画TV</td>
-      <td></td>
-      <td>0</td>
-      <td>有丶一般</td>
-      <td></td>
+      <td>1</td>
+      <td>1</td>
+      <td>值得一看</td>
    </tr>
    <tr>
       <td>2012.09</td>
@@ -1033,7 +961,6 @@ excerpt: Being to the master with the criticism.
       <td>0</td>
       <td>0</td>
       <td>有丶一般</td>
-      <td></td>
    </tr>
    <tr>
       <td>2012.10</td>
@@ -1042,7 +969,6 @@ excerpt: Being to the master with the criticism.
       <td>2</td>
       <td>2</td>
       <td>值得一看</td>
-      <td></td>
    </tr>
    <tr>
       <td>2012.10</td>
@@ -1051,7 +977,6 @@ excerpt: Being to the master with the criticism.
       <td>0</td>
       <td>0</td>
       <td>有丶一般</td>
-      <td></td>
    </tr>
    <tr>
       <td>2012.10</td>
@@ -1060,7 +985,6 @@ excerpt: Being to the master with the criticism.
       <td>0</td>
       <td>0</td>
       <td>有丶一般</td>
-      <td></td>
    </tr>
    <tr>
       <td>2012.10</td>
@@ -1069,7 +993,6 @@ excerpt: Being to the master with the criticism.
       <td>0</td>
       <td>0</td>
       <td>有丶一般</td>
-      <td></td>
    </tr>
    <tr>
       <td>2012.10</td>
@@ -1078,7 +1001,6 @@ excerpt: Being to the master with the criticism.
       <td>-1</td>
       <td>-1</td>
       <td>有丶垃圾</td>
-      <td></td>
    </tr>
    <tr>
       <td>2013.01</td>
@@ -1087,7 +1009,6 @@ excerpt: Being to the master with the criticism.
       <td>2</td>
       <td>2</td>
       <td>值得一看</td>
-      <td></td>
    </tr>
    <tr>
       <td>2013.01</td>
@@ -1096,7 +1017,6 @@ excerpt: Being to the master with the criticism.
       <td>0</td>
       <td>0</td>
       <td>有丶一般</td>
-      <td></td>
    </tr>
    <tr>
       <td>2013.01</td>
@@ -1105,7 +1025,6 @@ excerpt: Being to the master with the criticism.
       <td>-1</td>
       <td>-1</td>
       <td>有丶垃圾</td>
-      <td></td>
    </tr>
    <tr>
       <td>2013.02</td>
@@ -1114,7 +1033,6 @@ excerpt: Being to the master with the criticism.
       <td>0</td>
       <td>0</td>
       <td>有丶一般</td>
-      <td></td>
    </tr>
    <tr>
       <td>2013.04</td>
@@ -1123,7 +1041,6 @@ excerpt: Being to the master with the criticism.
       <td>2</td>
       <td>2</td>
       <td>值得一看</td>
-      <td></td>
    </tr>
    <tr>
       <td>2013.04</td>
@@ -1132,7 +1049,6 @@ excerpt: Being to the master with the criticism.
       <td>2</td>
       <td>2</td>
       <td>值得一看</td>
-      <td></td>
    </tr>
    <tr>
       <td>2013.04</td>
@@ -1141,7 +1057,6 @@ excerpt: Being to the master with the criticism.
       <td>1</td>
       <td>1</td>
       <td>值得一看</td>
-      <td></td>
    </tr>
    <tr>
       <td>2013.04</td>
@@ -1150,7 +1065,6 @@ excerpt: Being to the master with the criticism.
       <td>1</td>
       <td>1</td>
       <td>值得一看</td>
-      <td></td>
    </tr>
    <tr>
       <td>2013.04</td>
@@ -1159,7 +1073,6 @@ excerpt: Being to the master with the criticism.
       <td>-1</td>
       <td>-1</td>
       <td>有丶垃圾</td>
-      <td></td>
    </tr>
    <tr>
       <td>2013.05</td>
@@ -1168,7 +1081,6 @@ excerpt: Being to the master with the criticism.
       <td>1</td>
       <td>1</td>
       <td>值得一看</td>
-      <td></td>
    </tr>
    <tr>
       <td>2013.07</td>
@@ -1177,7 +1089,6 @@ excerpt: Being to the master with the criticism.
       <td>2</td>
       <td>2</td>
       <td>值得一看</td>
-      <td></td>
    </tr>
    <tr>
       <td>2013.07</td>
@@ -1186,7 +1097,6 @@ excerpt: Being to the master with the criticism.
       <td>1</td>
       <td>1</td>
       <td>值得一看</td>
-      <td></td>
    </tr>
    <tr>
       <td>2013.07</td>
@@ -1195,7 +1105,6 @@ excerpt: Being to the master with the criticism.
       <td>0</td>
       <td>0</td>
       <td>有丶一般</td>
-      <td></td>
    </tr>
    <tr>
       <td>2013.09</td>
@@ -1204,7 +1113,6 @@ excerpt: Being to the master with the criticism.
       <td>3</td>
       <td>3</td>
       <td>好评如潮</td>
-      <td></td>
    </tr>
    <tr>
       <td>2013.09</td>
@@ -1213,7 +1121,6 @@ excerpt: Being to the master with the criticism.
       <td>2</td>
       <td>2</td>
       <td>值得一看</td>
-      <td></td>
    </tr>
    <tr>
       <td>2013.10</td>
@@ -1222,7 +1129,6 @@ excerpt: Being to the master with the criticism.
       <td>2</td>
       <td>2</td>
       <td>值得一看</td>
-      <td></td>
    </tr>
    <tr>
       <td>2013.10</td>
@@ -1231,7 +1137,6 @@ excerpt: Being to the master with the criticism.
       <td>1</td>
       <td>1</td>
       <td>值得一看</td>
-      <td></td>
    </tr>
    <tr>
       <td>2013.10</td>
@@ -1240,7 +1145,6 @@ excerpt: Being to the master with the criticism.
       <td>1</td>
       <td>1</td>
       <td>值得一看</td>
-      <td></td>
    </tr>
    <tr>
       <td>2013.10</td>
@@ -1249,7 +1153,6 @@ excerpt: Being to the master with the criticism.
       <td>1</td>
       <td>1</td>
       <td>值得一看</td>
-      <td></td>
    </tr>
    <tr>
       <td>2014.01</td>
@@ -1258,7 +1161,6 @@ excerpt: Being to the master with the criticism.
       <td>1</td>
       <td>1</td>
       <td>值得一看</td>
-      <td></td>
    </tr>
    <tr>
       <td>2014.01</td>
@@ -1267,7 +1169,6 @@ excerpt: Being to the master with the criticism.
       <td>0</td>
       <td>0</td>
       <td>有丶一般</td>
-      <td></td>
    </tr>
    <tr>
       <td>2014.01</td>
@@ -1276,7 +1177,6 @@ excerpt: Being to the master with the criticism.
       <td>0</td>
       <td>0</td>
       <td>有丶一般</td>
-      <td></td>
    </tr>
    <tr>
       <td>2014.01</td>
@@ -1285,7 +1185,6 @@ excerpt: Being to the master with the criticism.
       <td>-1</td>
       <td>-1</td>
       <td>有丶垃圾</td>
-      <td></td>
    </tr>
    <tr>
       <td>2014.01</td>
@@ -1294,7 +1193,6 @@ excerpt: Being to the master with the criticism.
       <td>-2</td>
       <td>-2</td>
       <td>非常垃圾</td>
-      <td></td>
    </tr>
    <tr>
       <td>2014.04</td>
@@ -1303,7 +1201,6 @@ excerpt: Being to the master with the criticism.
       <td>2</td>
       <td>2</td>
       <td>值得一看</td>
-      <td></td>
    </tr>
    <tr>
       <td>2014.04</td>
@@ -1312,7 +1209,6 @@ excerpt: Being to the master with the criticism.
       <td>0</td>
       <td>0</td>
       <td>有丶一般</td>
-      <td></td>
    </tr>
    <tr>
       <td>2014.04</td>
@@ -1321,7 +1217,6 @@ excerpt: Being to the master with the criticism.
       <td>0</td>
       <td>0</td>
       <td>有丶一般</td>
-      <td></td>
    </tr>
    <tr>
       <td>2014.05</td>
@@ -1330,7 +1225,6 @@ excerpt: Being to the master with the criticism.
       <td>1</td>
       <td>1</td>
       <td>值得一看</td>
-      <td></td>
    </tr>
    <tr>
       <td>2014.07</td>
@@ -1339,7 +1233,6 @@ excerpt: Being to the master with the criticism.
       <td>-1</td>
       <td>-1</td>
       <td>有丶垃圾</td>
-      <td></td>
    </tr>
    <tr>
       <td>2014.10</td>
@@ -1348,7 +1241,6 @@ excerpt: Being to the master with the criticism.
       <td>0</td>
       <td>0</td>
       <td>有丶一般</td>
-      <td></td>
    </tr>
    <tr>
       <td>2014.10</td>
@@ -1357,7 +1249,6 @@ excerpt: Being to the master with the criticism.
       <td>-1</td>
       <td>-1</td>
       <td>有丶垃圾</td>
-      <td></td>
    </tr>
    <tr>
       <td>2014.10</td>
@@ -1366,7 +1257,6 @@ excerpt: Being to the master with the criticism.
       <td>-2</td>
       <td>-2</td>
       <td>非常垃圾</td>
-      <td></td>
    </tr>
    <tr>
       <td>2015.01</td>
@@ -1375,7 +1265,6 @@ excerpt: Being to the master with the criticism.
       <td>2</td>
       <td>2</td>
       <td>值得一看</td>
-      <td></td>
    </tr>
    <tr>
       <td>2015.01</td>
@@ -1384,7 +1273,6 @@ excerpt: Being to the master with the criticism.
       <td>0</td>
       <td>0</td>
       <td>有丶一般</td>
-      <td></td>
    </tr>
    <tr>
       <td>2015.01</td>
@@ -1393,7 +1281,6 @@ excerpt: Being to the master with the criticism.
       <td>0</td>
       <td>0</td>
       <td>有丶一般</td>
-      <td></td>
    </tr>
    <tr>
       <td>2015.01</td>
@@ -1402,7 +1289,6 @@ excerpt: Being to the master with the criticism.
       <td>-1</td>
       <td>-1</td>
       <td>有丶垃圾</td>
-      <td></td>
    </tr>
    <tr>
       <td>2015.02</td>
@@ -1411,7 +1297,6 @@ excerpt: Being to the master with the criticism.
       <td>1</td>
       <td>1</td>
       <td>值得一看</td>
-      <td></td>
    </tr>
    <tr>
       <td>2015.02</td>
@@ -1420,7 +1305,6 @@ excerpt: Being to the master with the criticism.
       <td>0</td>
       <td>0</td>
       <td>有丶一般</td>
-      <td></td>
    </tr>
    <tr>
       <td>2015.04</td>
@@ -1429,7 +1313,6 @@ excerpt: Being to the master with the criticism.
       <td>2</td>
       <td>2</td>
       <td>值得一看</td>
-      <td></td>
    </tr>
    <tr>
       <td>2015.04</td>
@@ -1438,7 +1321,6 @@ excerpt: Being to the master with the criticism.
       <td>2</td>
       <td>2</td>
       <td>值得一看</td>
-      <td></td>
    </tr>
    <tr>
       <td>2015.07</td>
@@ -1447,7 +1329,6 @@ excerpt: Being to the master with the criticism.
       <td>1</td>
       <td>1</td>
       <td>值得一看</td>
-      <td></td>
    </tr>
    <tr>
       <td>2015.07</td>
@@ -1456,7 +1337,6 @@ excerpt: Being to the master with the criticism.
       <td>1</td>
       <td>1</td>
       <td>值得一看</td>
-      <td></td>
    </tr>
    <tr>
       <td>2015.07</td>
@@ -1465,7 +1345,6 @@ excerpt: Being to the master with the criticism.
       <td>-1</td>
       <td>-1</td>
       <td>有丶垃圾</td>
-      <td></td>
    </tr>
    <tr>
       <td>2015.10</td>
@@ -1474,7 +1353,6 @@ excerpt: Being to the master with the criticism.
       <td>3</td>
       <td>3</td>
       <td>好评如潮</td>
-      <td></td>
    </tr>
    <tr>
       <td>2016.01</td>
@@ -1483,7 +1361,6 @@ excerpt: Being to the master with the criticism.
       <td>2</td>
       <td>2</td>
       <td>值得一看</td>
-      <td></td>
    </tr>
    <tr>
       <td>2016.01</td>
@@ -1492,7 +1369,6 @@ excerpt: Being to the master with the criticism.
       <td>1</td>
       <td>1</td>
       <td>值得一看</td>
-      <td></td>
    </tr>
    <tr>
       <td>2016.01</td>
@@ -1501,7 +1377,6 @@ excerpt: Being to the master with the criticism.
       <td>0</td>
       <td>0</td>
       <td>有丶一般</td>
-      <td></td>
    </tr>
    <tr>
       <td>2016.01</td>
@@ -1510,7 +1385,6 @@ excerpt: Being to the master with the criticism.
       <td>0</td>
       <td>0</td>
       <td>有丶一般</td>
-      <td></td>
    </tr>
    <tr>
       <td>2016.03</td>
@@ -1519,7 +1393,6 @@ excerpt: Being to the master with the criticism.
       <td>2</td>
       <td>2</td>
       <td>值得一看</td>
-      <td></td>
    </tr>
    <tr>
       <td>2016.04</td>
@@ -1528,7 +1401,6 @@ excerpt: Being to the master with the criticism.
       <td>2</td>
       <td>2</td>
       <td>值得一看</td>
-      <td></td>
    </tr>
    <tr>
       <td>2016.04</td>
@@ -1537,7 +1409,6 @@ excerpt: Being to the master with the criticism.
       <td>1</td>
       <td>1</td>
       <td>值得一看</td>
-      <td></td>
    </tr>
    <tr>
       <td>2016.04</td>
@@ -1546,7 +1417,6 @@ excerpt: Being to the master with the criticism.
       <td></td>
       <td>0</td>
       <td>有丶一般</td>
-      <td></td>
    </tr>
    <tr>
       <td>2016.04</td>
@@ -1555,7 +1425,6 @@ excerpt: Being to the master with the criticism.
       <td>-1</td>
       <td>-1</td>
       <td>有丶垃圾</td>
-      <td></td>
    </tr>
    <tr>
       <td>2016.04</td>
@@ -1564,7 +1433,6 @@ excerpt: Being to the master with the criticism.
       <td>-1</td>
       <td>-1</td>
       <td>有丶垃圾</td>
-      <td></td>
    </tr>
    <tr>
       <td>2016.07</td>
@@ -1573,7 +1441,6 @@ excerpt: Being to the master with the criticism.
       <td>1</td>
       <td>1</td>
       <td>值得一看</td>
-      <td></td>
    </tr>
    <tr>
       <td>2016.08</td>
@@ -1582,7 +1449,6 @@ excerpt: Being to the master with the criticism.
       <td>0</td>
       <td>0</td>
       <td>有丶一般</td>
-      <td></td>
    </tr>
    <tr>
       <td>2016.09</td>
@@ -1591,7 +1457,6 @@ excerpt: Being to the master with the criticism.
       <td>0</td>
       <td>0</td>
       <td>有丶一般</td>
-      <td></td>
    </tr>
    <tr>
       <td>2016.10</td>
@@ -1600,7 +1465,6 @@ excerpt: Being to the master with the criticism.
       <td>2</td>
       <td>2</td>
       <td>值得一看</td>
-      <td></td>
    </tr>
    <tr>
       <td>2016.10</td>
@@ -1609,7 +1473,6 @@ excerpt: Being to the master with the criticism.
       <td>1</td>
       <td>1</td>
       <td>值得一看</td>
-      <td></td>
    </tr>
    <tr>
       <td>2016.10</td>
@@ -1618,7 +1481,6 @@ excerpt: Being to the master with the criticism.
       <td>0</td>
       <td>0</td>
       <td>有丶一般</td>
-      <td></td>
    </tr>
    <tr>
       <td>2016.10</td>
@@ -1627,7 +1489,6 @@ excerpt: Being to the master with the criticism.
       <td>-1</td>
       <td>-1</td>
       <td>有丶垃圾</td>
-      <td></td>
    </tr>
    <tr>
       <td>2017.01</td>
@@ -1636,7 +1497,6 @@ excerpt: Being to the master with the criticism.
       <td>0</td>
       <td>0</td>
       <td>有丶一般</td>
-      <td></td>
    </tr>
    <tr>
       <td>2017.02</td>
@@ -1645,7 +1505,6 @@ excerpt: Being to the master with the criticism.
       <td>1</td>
       <td>1</td>
       <td>值得一看</td>
-      <td></td>
    </tr>
    <tr>
       <td>2017.04</td>
@@ -1654,7 +1513,6 @@ excerpt: Being to the master with the criticism.
       <td>2</td>
       <td>2</td>
       <td>值得一看</td>
-      <td></td>
    </tr>
    <tr>
       <td>2017.04</td>
@@ -1663,7 +1521,6 @@ excerpt: Being to the master with the criticism.
       <td>2</td>
       <td>2</td>
       <td>值得一看</td>
-      <td></td>
    </tr>
    <tr>
       <td>2017.04</td>
@@ -1672,7 +1529,6 @@ excerpt: Being to the master with the criticism.
       <td>0</td>
       <td>0</td>
       <td>有丶一般</td>
-      <td></td>
    </tr>
    <tr>
       <td>2017.04</td>
@@ -1681,7 +1537,6 @@ excerpt: Being to the master with the criticism.
       <td>0</td>
       <td>0</td>
       <td>有丶一般</td>
-      <td></td>
    </tr>
    <tr>
       <td>2017.04</td>
@@ -1690,7 +1545,6 @@ excerpt: Being to the master with the criticism.
       <td>-2</td>
       <td>-2</td>
       <td>非常垃圾</td>
-      <td></td>
    </tr>
    <tr>
       <td>2017.07</td>
@@ -1699,7 +1553,6 @@ excerpt: Being to the master with the criticism.
       <td>0</td>
       <td>0</td>
       <td>有丶一般</td>
-      <td></td>
    </tr>
    <tr>
       <td>2017.07</td>
@@ -1708,7 +1561,6 @@ excerpt: Being to the master with the criticism.
       <td>-1</td>
       <td>-1</td>
       <td>有丶垃圾</td>
-      <td></td>
    </tr>
    <tr>
       <td>2017.07</td>
@@ -1717,7 +1569,6 @@ excerpt: Being to the master with the criticism.
       <td>-2</td>
       <td>-2</td>
       <td>非常垃圾</td>
-      <td></td>
    </tr>
    <tr>
       <td>2017.07</td>
@@ -1726,7 +1577,6 @@ excerpt: Being to the master with the criticism.
       <td>-2</td>
       <td>-2</td>
       <td>非常垃圾</td>
-      <td></td>
    </tr>
    <tr>
       <td>2017.08</td>
@@ -1735,7 +1585,6 @@ excerpt: Being to the master with the criticism.
       <td>1</td>
       <td>1</td>
       <td>值得一看</td>
-      <td></td>
    </tr>
    <tr>
       <td>2017.10</td>
@@ -1744,7 +1593,6 @@ excerpt: Being to the master with the criticism.
       <td>2</td>
       <td>2</td>
       <td>值得一看</td>
-      <td></td>
    </tr>
    <tr>
       <td>2017.10</td>
@@ -1753,16 +1601,14 @@ excerpt: Being to the master with the criticism.
       <td>1</td>
       <td>1</td>
       <td>值得一看</td>
-      <td></td>
    </tr>
    <tr>
       <td>2017.10</td>
       <td>√</td>
       <td>十二大战</td>
-      <td>-1</td>
-      <td>-1</td>
-      <td>有丶垃圾</td>
-      <td></td>
+      <td>-2</td>
+      <td>-2</td>
+      <td>非常垃圾</td>
    </tr>
    <tr>
       <td>2017.12</td>
@@ -1771,7 +1617,6 @@ excerpt: Being to the master with the criticism.
       <td>-1</td>
       <td>-1</td>
       <td>有丶垃圾</td>
-      <td></td>
    </tr>
    <tr>
       <td>2018.01</td>
@@ -1780,7 +1625,6 @@ excerpt: Being to the master with the criticism.
       <td>1</td>
       <td>1</td>
       <td>值得一看</td>
-      <td></td>
    </tr>
    <tr>
       <td>2018.01</td>
@@ -1789,7 +1633,6 @@ excerpt: Being to the master with the criticism.
       <td>1</td>
       <td>1</td>
       <td>值得一看</td>
-      <td></td>
    </tr>
    <tr>
       <td>2018.01</td>
@@ -1798,7 +1641,6 @@ excerpt: Being to the master with the criticism.
       <td>-1</td>
       <td>-1</td>
       <td>有丶垃圾</td>
-      <td></td>
    </tr>
    <tr>
       <td>2018.01</td>
@@ -1807,7 +1649,6 @@ excerpt: Being to the master with the criticism.
       <td>-1</td>
       <td>-1</td>
       <td>有丶垃圾</td>
-      <td></td>
    </tr>
    <tr>
       <td>2018.01</td>
@@ -1816,7 +1657,6 @@ excerpt: Being to the master with the criticism.
       <td>-1</td>
       <td>-1</td>
       <td>有丶垃圾</td>
-      <td></td>
    </tr>
    <tr>
       <td>2018.01</td>
@@ -1825,7 +1665,6 @@ excerpt: Being to the master with the criticism.
       <td>-2</td>
       <td>-2</td>
       <td>非常垃圾</td>
-      <td></td>
    </tr>
    <tr>
       <td>2018.01</td>
@@ -1834,7 +1673,6 @@ excerpt: Being to the master with the criticism.
       <td>-2</td>
       <td>-2</td>
       <td>非常垃圾</td>
-      <td></td>
    </tr>
    <tr>
       <td>2018.01</td>
@@ -1843,7 +1681,6 @@ excerpt: Being to the master with the criticism.
       <td>-3</td>
       <td>-3</td>
       <td>非常垃圾</td>
-      <td></td>
    </tr>
    <tr>
       <td>2018.02</td>
@@ -1852,7 +1689,6 @@ excerpt: Being to the master with the criticism.
       <td>-3</td>
       <td>-3</td>
       <td>非常垃圾</td>
-      <td></td>
    </tr>
    <tr>
       <td>2018.04</td>
@@ -1861,7 +1697,6 @@ excerpt: Being to the master with the criticism.
       <td>3</td>
       <td>3</td>
       <td>好评如潮</td>
-      <td></td>
    </tr>
    <tr>
       <td>2018.04</td>
@@ -1870,7 +1705,6 @@ excerpt: Being to the master with the criticism.
       <td>1</td>
       <td>1</td>
       <td>值得一看</td>
-      <td></td>
    </tr>
    <tr>
       <td>2018.04</td>
@@ -1879,7 +1713,6 @@ excerpt: Being to the master with the criticism.
       <td>0</td>
       <td>0</td>
       <td>有丶一般</td>
-      <td></td>
    </tr>
    <tr>
       <td>2018.04</td>
@@ -1888,7 +1721,6 @@ excerpt: Being to the master with the criticism.
       <td>-1</td>
       <td>-1</td>
       <td>有丶垃圾</td>
-      <td></td>
    </tr>
    <tr>
       <td>2018.07</td>
@@ -1897,7 +1729,6 @@ excerpt: Being to the master with the criticism.
       <td>2</td>
       <td>2</td>
       <td>值得一看</td>
-      <td></td>
    </tr>
    <tr>
       <td>2018.07</td>
@@ -1906,7 +1737,6 @@ excerpt: Being to the master with the criticism.
       <td>1</td>
       <td>1</td>
       <td>值得一看</td>
-      <td></td>
    </tr>
    <tr>
       <td>2018.07</td>
@@ -1915,7 +1745,6 @@ excerpt: Being to the master with the criticism.
       <td>0</td>
       <td>0</td>
       <td>有丶一般</td>
-      <td></td>
    </tr>
    <tr>
       <td>2018.07</td>
@@ -1924,7 +1753,6 @@ excerpt: Being to the master with the criticism.
       <td>-2</td>
       <td>-2</td>
       <td>非常垃圾</td>
-      <td></td>
    </tr>
    <tr>
       <td>2018.09</td>
@@ -1933,7 +1761,6 @@ excerpt: Being to the master with the criticism.
       <td>1</td>
       <td>1</td>
       <td>值得一看</td>
-      <td></td>
    </tr>
    <tr>
       <td>2018.09</td>
@@ -1942,7 +1769,6 @@ excerpt: Being to the master with the criticism.
       <td>0</td>
       <td>0</td>
       <td>有丶一般</td>
-      <td></td>
    </tr>
    <tr>
       <td>2018.10</td>
@@ -1951,7 +1777,6 @@ excerpt: Being to the master with the criticism.
       <td>1</td>
       <td>1</td>
       <td>值得一看</td>
-      <td></td>
    </tr>
    <tr>
       <td>2018.10</td>
@@ -1960,7 +1785,6 @@ excerpt: Being to the master with the criticism.
       <td>0</td>
       <td>0</td>
       <td>有丶一般</td>
-      <td></td>
    </tr>
    <tr>
       <td>2018.10</td>
@@ -1969,7 +1793,6 @@ excerpt: Being to the master with the criticism.
       <td>0</td>
       <td>0</td>
       <td>有丶一般</td>
-      <td></td>
    </tr>
    <tr>
       <td>2018.10</td>
@@ -1978,7 +1801,6 @@ excerpt: Being to the master with the criticism.
       <td>-1</td>
       <td>-1</td>
       <td>有丶垃圾</td>
-      <td></td>
    </tr>
    <tr>
       <td>2018.10</td>
@@ -1987,7 +1809,6 @@ excerpt: Being to the master with the criticism.
       <td>-2</td>
       <td>-2</td>
       <td>非常垃圾</td>
-      <td></td>
    </tr>
    <tr>
       <td>2018.12</td>
@@ -1996,7 +1817,6 @@ excerpt: Being to the master with the criticism.
       <td>1</td>
       <td>1</td>
       <td>值得一看</td>
-      <td></td>
    </tr>
    <tr>
       <td>2019.01</td>
@@ -2005,7 +1825,6 @@ excerpt: Being to the master with the criticism.
       <td>2</td>
       <td>2</td>
       <td>值得一看</td>
-      <td></td>
    </tr>
    <tr>
       <td>2019.01</td>
@@ -2014,16 +1833,6 @@ excerpt: Being to the master with the criticism.
       <td>1</td>
       <td>1</td>
       <td>值得一看</td>
-      <td></td>
-   </tr>
-   <tr>
-      <td>2019.01</td>
-      <td>√</td>
-      <td>輝夜大小姐想讓我告白</td>
-      <td>0</td>
-      <td>0</td>
-      <td>有丶一般</td>
-      <td></td>
    </tr>
    <tr>
       <td>2019.01</td>
@@ -2032,7 +1841,6 @@ excerpt: Being to the master with the criticism.
       <td>-1</td>
       <td>-1</td>
       <td>有丶垃圾</td>
-      <td>格局太小</td>
    </tr>
    <tr>
       <td>2019.02</td>
@@ -2041,7 +1849,6 @@ excerpt: Being to the master with the criticism.
       <td>2</td>
       <td>2</td>
       <td>值得一看</td>
-      <td></td>
    </tr>
    <tr>
       <td>2019.04</td>
@@ -2050,25 +1857,22 @@ excerpt: Being to the master with the criticism.
       <td>2</td>
       <td>2</td>
       <td>值得一看</td>
-      <td>不拘一格</td>
    </tr>
    <tr>
       <td>2019.04</td>
-      <td></td>
+      <td>X</td>
       <td>鬼灭之刃</td>
       <td>-1</td>
       <td>-1</td>
       <td>有丶垃圾</td>
-      <td></td>
    </tr>
    <tr>
       <td>2019.04</td>
-      <td>√</td>
+      <td>X</td>
       <td>キャロル＆チューズデイ</td>
       <td>-1</td>
       <td>-1</td>
       <td>有丶垃圾</td>
-      <td>格局太小、展開太無聊</td>
    </tr>
    <tr>
       <td>2019.06</td>
@@ -2077,24 +1881,53 @@ excerpt: Being to the master with the criticism.
       <td></td>
       <td>0</td>
       <td>有丶一般</td>
-      <td></td>
    </tr>
    <tr>
       <td>2019.07</td>
-      <td></td>
+      <td>√</td>
       <td>君主·埃尔梅罗二世事件簿 魔眼搜集列车</td>
-      <td></td>
-      <td>0</td>
-      <td>有丶一般</td>
-      <td></td>
+      <td>1</td>
+      <td>1</td>
+      <td>值得一看</td>
    </tr>
    <tr>
       <td>2019.07</td>
-      <td></td>
+      <td>√</td>
+      <td>天気の子</td>
+      <td>1</td>
+      <td>1</td>
+      <td>值得一看</td>
+   </tr>
+   <tr>
+      <td>2019.07</td>
+      <td>√</td>
       <td>某科学的一方通行</td>
       <td>0</td>
       <td>0</td>
       <td>有丶一般</td>
-      <td>頂級蘿莉控一方裝逼秀</td>
+   </tr>
+   <tr>
+      <td>2019.07</td>
+      <td>X</td>
+      <td>炎炎ノ消防隊</td>
+      <td>0</td>
+      <td>0</td>
+      <td>有丶一般</td>
+   </tr>
+   <tr>
+      <td>2019.10</td>
+      <td></td>
+      <td>Beatstars</td>
+      <td>1</td>
+      <td>1</td>
+      <td>值得一看</td>
+   </tr>
+   <tr>
+      <td>2019.10</td>
+      <td>X</td>
+      <td>No Guns Life</td>
+      <td>-1</td>
+      <td>-1</td>
+      <td>有丶垃圾</td>
    </tr>
 </table>
