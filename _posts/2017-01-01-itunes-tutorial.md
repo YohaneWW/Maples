@@ -2,7 +2,7 @@
 layout: post
 title: iTunes 最佳實踐
 categories: [Tutorial]
-excerpt: iTunes Best Practices.
+excerpt: iTunes Best Practices
 ---
 * Index
 {:toc}
