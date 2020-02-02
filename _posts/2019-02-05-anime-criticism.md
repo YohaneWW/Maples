@@ -2,7 +2,7 @@
 layout: post
 title: 八声甘州雨 Anime 狩猎榜
 categories: [Anime Criticism]
-excerpt: Being to the master with the criticism.
+excerpt: Being the master with the criticism.
 ---
 <li style="text-align: center;font-size: 20px;color: #5DAC81;font-weight: bold;padding: 20px">Last Update： <span style="font-style:italic">Nov 15, 2019</span></li>
 
@@ -16,15 +16,6 @@ excerpt: Being to the master with the criticism.
       <td>@Yohane</td>
       <td>最终评分</td>
       <td>评价</td>
-      <td>Impression</td>
-   </tr>
-   <tr>
-      <td>1982.10</td>
-      <td></td>
-      <td>超时空要塞 Macross</td>
-      <td></td>
-      <td>0</td>
-      <td>有丶一般</td>
    </tr>
    <tr>
       <td>1982.10</td>
@@ -804,7 +795,7 @@ excerpt: Being to the master with the criticism.
    </tr>
    <tr>
       <td>2010.10</td>
-      <td>√</td>
+      <td>X</td>
       <td>我的妹妹哪有这么可爱！</td>
       <td>-2</td>
       <td>-2</td>
@@ -892,7 +883,7 @@ excerpt: Being to the master with the criticism.
    </tr>
    <tr>
       <td>2011.10</td>
-      <td>√</td>
+      <td>X</td>
       <td>罪恶王冠</td>
       <td>-2</td>
       <td>-2</td>
@@ -910,6 +901,14 @@ excerpt: Being to the master with the criticism.
       <td>2012.01</td>
       <td>√</td>
       <td>Another</td>
+      <td>-1</td>
+      <td>-1</td>
+      <td>有丶垃圾</td>
+   </tr>
+   <tr>
+      <td>2012.01</td>
+      <td>X</td>
+      <td>戦姫絶唱シンフォギア</td>
       <td>-1</td>
       <td>-1</td>
       <td>有丶垃圾</td>
@@ -965,7 +964,7 @@ excerpt: Being to the master with the criticism.
    <tr>
       <td>2012.10</td>
       <td>√</td>
-      <td>JOJO的奇妙冒险</td>
+      <td>ジョジョの奇妙な冒険</td>
       <td>2</td>
       <td>2</td>
       <td>值得一看</td>
@@ -1205,6 +1204,14 @@ excerpt: Being to the master with the criticism.
    <tr>
       <td>2014.04</td>
       <td>√</td>
+      <td>ジョジョの奇妙な冒険 スターダストクルセイダース</td>
+      <td>2</td>
+      <td>2</td>
+      <td>值得一看</td>
+   </tr>
+   <tr>
+      <td>2014.04</td>
+      <td>X</td>
       <td>请问您今天要来点兔子吗？</td>
       <td>0</td>
       <td>0</td>
@@ -1405,6 +1412,14 @@ excerpt: Being to the master with the criticism.
    <tr>
       <td>2016.04</td>
       <td>√</td>
+      <td>ジョジョの奇妙な冒険 ダイヤモンドは砕けない</td>
+      <td>2</td>
+      <td>2</td>
+      <td>值得一看</td>
+   </tr>
+   <tr>
+      <td>2016.04</td>
+      <td>√</td>
       <td>在下坂本，有何贵干？</td>
       <td>1</td>
       <td>1</td>
@@ -1412,7 +1427,7 @@ excerpt: Being to the master with the criticism.
    </tr>
    <tr>
       <td>2016.04</td>
-      <td>√</td>
+      <td>X</td>
       <td>超时空要塞Δ</td>
       <td></td>
       <td>0</td>
@@ -1476,7 +1491,7 @@ excerpt: Being to the master with the criticism.
    </tr>
    <tr>
       <td>2016.10</td>
-      <td>√</td>
+      <td>X</td>
       <td>星期一的丰满</td>
       <td>0</td>
       <td>0</td>
@@ -1796,6 +1811,14 @@ excerpt: Being to the master with the criticism.
    </tr>
    <tr>
       <td>2018.10</td>
+      <td></td>
+      <td>ジョジョの奇妙な冒険 黄金の風</td>
+      <td></td>
+      <td>0</td>
+      <td>有丶一般</td>
+   </tr>
+   <tr>
+      <td>2018.10</td>
       <td>√</td>
       <td>青春ブタ少年不会梦到兔女郎学姐</td>
       <td>-1</td>
@@ -1851,11 +1874,27 @@ excerpt: Being to the master with the criticism.
       <td>值得一看</td>
    </tr>
    <tr>
+      <td>2019.02</td>
+      <td>√</td>
+      <td>コードギアス 復活のルルーシュ</td>
+      <td>0</td>
+      <td>0</td>
+      <td>有丶一般</td>
+   </tr>
+   <tr>
       <td>2019.04</td>
       <td>√</td>
       <td>さらざんまい</td>
       <td>2</td>
       <td>2</td>
+      <td>值得一看</td>
+   </tr>
+   <tr>
+      <td>2019.04</td>
+      <td>√</td>
+      <td>響け！ユーフォニアム～誓いのフィナーレ～</td>
+      <td>1</td>
+      <td>1</td>
       <td>值得一看</td>
    </tr>
    <tr>
@@ -1876,9 +1915,9 @@ excerpt: Being to the master with the criticism.
    </tr>
    <tr>
       <td>2019.06</td>
-      <td></td>
+      <td>√</td>
       <td>きみと、波にのれたら</td>
-      <td></td>
+      <td>0</td>
       <td>0</td>
       <td>有丶一般</td>
    </tr>
@@ -1894,29 +1933,29 @@ excerpt: Being to the master with the criticism.
       <td>2019.07</td>
       <td>√</td>
       <td>天気の子</td>
-      <td>1</td>
-      <td>1</td>
-      <td>值得一看</td>
+      <td>0</td>
+      <td>0</td>
+      <td>有丶一般</td>
    </tr>
    <tr>
       <td>2019.07</td>
       <td>√</td>
       <td>某科学的一方通行</td>
-      <td>0</td>
-      <td>0</td>
-      <td>有丶一般</td>
+      <td>-1</td>
+      <td>-1</td>
+      <td>有丶垃圾</td>
    </tr>
    <tr>
       <td>2019.07</td>
-      <td>X</td>
+      <td>√</td>
       <td>炎炎ノ消防隊</td>
-      <td>0</td>
-      <td>0</td>
-      <td>有丶一般</td>
+      <td>-1</td>
+      <td>-1</td>
+      <td>有丶垃圾</td>
    </tr>
    <tr>
       <td>2019.10</td>
-      <td></td>
+      <td>√</td>
       <td>Beatstars</td>
       <td>1</td>
       <td>1</td>
@@ -1926,8 +1965,48 @@ excerpt: Being to the master with the criticism.
       <td>2019.10</td>
       <td>X</td>
       <td>No Guns Life</td>
-      <td>-1</td>
-      <td>-1</td>
-      <td>有丶垃圾</td>
+      <td>-2</td>
+      <td>-2</td>
+      <td>非常垃圾</td>
+   </tr>
+   <tr>
+      <td>2019.12</td>
+      <td>√</td>
+      <td>齐木楠雄的灾难 Ψ始动篇</td>
+      <td>1</td>
+      <td>1</td>
+      <td>值得一看</td>
+   </tr>
+   <tr>
+      <td>2020.01</td>
+      <td></td>
+      <td>虚构推理</td>
+      <td></td>
+      <td>0</td>
+      <td>有丶一般</td>
+   </tr>
+   <tr>
+      <td>2020.01</td>
+      <td></td>
+      <td>魔法记录</td>
+      <td></td>
+      <td>0</td>
+      <td>有丶一般</td>
+   </tr>
+   <tr>
+      <td>2020.01</td>
+      <td></td>
+      <td>别对映像研出手</td>
+      <td></td>
+      <td>0</td>
+      <td>有丶一般</td>
+   </tr>
+   <tr>
+      <td>2020.01</td>
+      <td></td>
+      <td>とある科学の超電磁砲T</td>
+      <td></td>
+      <td>0</td>
+      <td>有丶一般</td>
    </tr>
 </table>
