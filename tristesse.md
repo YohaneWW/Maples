@@ -10,10 +10,6 @@ Your browser does not support the audio tag.
 
 <br>
 
-# 把書吃了
-
-# Apr 17, 2019
-
 ---
 
 # _約定_
