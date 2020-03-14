@@ -4,12 +4,18 @@ title: 八声甘州雨 Anime 狩猎榜
 categories: [Anime Criticism]
 excerpt: Being the master with the criticism.
 ---
-<li style="text-align: center;font-size: 20px;color: #5DAC81;font-weight: bold;padding: 20px">Last Update： <span style="font-style:italic">Nov 15, 2019</span></li>
+<li style="text-align: center;font-size: 20px;color: #5DAC81;font-weight: bold;padding: 20px">Last Update： <span style="font-style:italic">Mar 14, 2020</span></li>
 
 <table>
-    <caption>八声甘州雨 Anime 狩猎榜</caption>
-
-     <tr>
+   <tr>
+      <td>八声甘州雨Anime狩猎榜</td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+   </tr>
+   <tr>
       <td>年代</td>
       <td>Status</td>
       <td>番组名</td>
@@ -165,6 +171,14 @@ excerpt: Being the master with the criticism.
       <td>2003.10</td>
       <td>√</td>
       <td>鋼の錬金術師</td>
+      <td>1</td>
+      <td>1</td>
+      <td>值得一看</td>
+   </tr>
+   <tr>
+      <td>2003.10</td>
+      <td>√</td>
+      <td>真月谭 月姬</td>
       <td>1</td>
       <td>1</td>
       <td>值得一看</td>
@@ -627,14 +641,6 @@ excerpt: Being the master with the criticism.
    </tr>
    <tr>
       <td>2009.07</td>
-      <td></td>
-      <td>狼与香辛料2</td>
-      <td></td>
-      <td>0</td>
-      <td>有丶一般</td>
-   </tr>
-   <tr>
-      <td>2009.07</td>
       <td>√</td>
       <td>海猫鸣泣之时</td>
       <td>-1</td>
@@ -691,9 +697,9 @@ excerpt: Being the master with the criticism.
    </tr>
    <tr>
       <td>2010.01</td>
-      <td></td>
+      <td>√</td>
       <td>刀语</td>
-      <td></td>
+      <td>0</td>
       <td>0</td>
       <td>有丶一般</td>
    </tr>
@@ -1213,9 +1219,9 @@ excerpt: Being the master with the criticism.
       <td>2014.04</td>
       <td>X</td>
       <td>请问您今天要来点兔子吗？</td>
-      <td>0</td>
-      <td>0</td>
-      <td>有丶一般</td>
+      <td>-1</td>
+      <td>-1</td>
+      <td>有丶垃圾</td>
    </tr>
    <tr>
       <td>2014.04</td>
@@ -1788,6 +1794,14 @@ excerpt: Being the master with the criticism.
    <tr>
       <td>2018.10</td>
       <td>√</td>
+      <td>ジョジョの奇妙な冒険 黄金の風</td>
+      <td>2</td>
+      <td>2</td>
+      <td>值得一看</td>
+   </tr>
+   <tr>
+      <td>2018.10</td>
+      <td>√</td>
       <td>弦音 -风舞高中弓道部-</td>
       <td>1</td>
       <td>1</td>
@@ -1806,14 +1820,6 @@ excerpt: Being the master with the criticism.
       <td>√</td>
       <td>SSSS.GRIDMAN</td>
       <td>0</td>
-      <td>0</td>
-      <td>有丶一般</td>
-   </tr>
-   <tr>
-      <td>2018.10</td>
-      <td></td>
-      <td>ジョジョの奇妙な冒険 黄金の風</td>
-      <td></td>
       <td>0</td>
       <td>有丶一般</td>
    </tr>
@@ -1914,6 +1920,14 @@ excerpt: Being the master with the criticism.
       <td>有丶垃圾</td>
    </tr>
    <tr>
+      <td>2019.05</td>
+      <td>√</td>
+      <td>Promare</td>
+      <td>1</td>
+      <td>1</td>
+      <td>值得一看</td>
+   </tr>
+   <tr>
       <td>2019.06</td>
       <td>√</td>
       <td>きみと、波にのれたら</td>
@@ -1980,14 +1994,6 @@ excerpt: Being the master with the criticism.
    <tr>
       <td>2020.01</td>
       <td></td>
-      <td>虚构推理</td>
-      <td></td>
-      <td>0</td>
-      <td>有丶一般</td>
-   </tr>
-   <tr>
-      <td>2020.01</td>
-      <td></td>
       <td>魔法记录</td>
       <td></td>
       <td>0</td>
@@ -2008,5 +2014,13 @@ excerpt: Being the master with the criticism.
       <td></td>
       <td>0</td>
       <td>有丶一般</td>
+   </tr>
+   <tr>
+      <td>2020.01</td>
+      <td>X</td>
+      <td>虚构推理</td>
+      <td>-1</td>
+      <td>-1</td>
+      <td>有丶垃圾</td>
    </tr>
 </table>
