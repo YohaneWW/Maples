@@ -7,14 +7,10 @@ excerpt: Being the master with the criticism.
 <li style="text-align: center;font-size: 20px;color: #5DAC81;font-weight: bold;padding: 20px">Last Update： <span style="font-style:italic">Mar 14, 2020</span></li>
 
 <table>
-   <tr>
+   <caption>
       <td>八声甘州雨Anime狩猎榜</td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
-   </tr>
+   </caption>
+
    <tr>
       <td>年代</td>
       <td>Status</td>
